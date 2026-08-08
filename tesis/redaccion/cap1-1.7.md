@@ -25,15 +25,13 @@ crítica» nunca fue un criterio sustantivo sino una referencia a máximas de ex
 ### 1.7.1. Principio negativo versus criterio positivo de valoración
 
 La distinción entre uno y otro es fundamental y ha quedado opacada por el uso indiferenciado de
-ambas expresiones. Gascón (2005) la traza con precisión al examinar la historia de la libre
+ambas expresiones. Gascón (2010) la traza con precisión al examinar la historia de la libre
 convicción en el derecho procesal. El rechazo de la prueba legal fue un giro revolucionario. La
 prueba legal predeterminaba el valor de cada medio mediante reglas abstracción: el testigo
 presenciador, la confesión espontánea, el documento público, cada uno tenía un peso fijo
-establecido por la ley. De ahí que Ferrajoli (1995) hablase de esa época como de una de las
-«páginas políticas más amargas e intelectualmente más deprimentes de la historia de las
-instituciones penales». La libre convicción fue la reacción contra ese sistema fetichista. Su
+establecido por la ley. La libre convicción fue la reacción contra ese sistema fetichista. Su
 propósito consiste simplemente en «el rechazo de las pruebas legales como suficientes para
-determinar la decisión» (Gascón, 2005, p. 142). Con esa precisión, la libre convicción no es un
+determinar la decisión» (Gascón, 2010, p. 142). Con esa precisión, la libre convicción no es un
 criterio positivo que diga cómo debe valorarse, sino un principio *negativo* que deshace el
 camino contrario: prescribe que el juzgador *no* está sujeto a tasaciones previas.
 
@@ -43,7 +41,7 @@ valor de la prueba, el juzgador debe determinar ese valor mediante algún métod
 convicción marca dónde no se puede estar —bajo la coacción de reglas legales— pero no marca
 dónde se debe estar. Por eso Gascón afirma que «la libre valoración no puede interpretarse más
 que en su significado primigenio: un *principio metodológico (negativo)*. Pero un principio
-metodológico y sólo eso. No, por tanto, un *criterio (positivo)* de valoración» (Gascón, 2005,
+metodológico y sólo eso. No, por tanto, un *criterio (positivo)* de valoración» (Gascón, 2010,
 p. 142). La línea que separa ambas cosas es la que separa lo permitido de lo prescrito: la libre
 convicción permite al juzgador desligarse de reglas aprióricas; no prescribe cómo decidir sin
 ellas. Confundir ambas cosas convierte un límite al formalismo en autorización para la
@@ -53,9 +51,12 @@ arbitrariedad.
 
 El uso posterior de la libre convicción se apartó de ese significado originario. En lugar de
 entenderse como rechazo del apriorismo legal, pasó a interpretarse como «valoración libre, sin
-sujeción a reglas de ningún tipo» (Gascón, 2005, p. 142). Con ese cambio de significado, la
+sujeción a reglas de ningún tipo» (Gascón, 2010, p. 142). Con ese cambio de significado, la
 libre convicción dejó de ser una garantía epistemológica y se convirtió en una puerta abierta a
-la subjetividad descontrolada. El juzgador recibía el encargo de «decidir según su conciencia» o
+la subjetividad descontrolada. La gravedad de esa deriva no es apreciación de este trabajo:
+Gascón (2010) recoge que Ferrajoli no duda en calificarla como «una de las páginas políticamente
+más amargas e intelectualmente más deprimentes de la historia de las instituciones penales»
+(p. 34). El juzgador recibía el encargo de «decidir según su conciencia» o
 según su «íntima convicción», pero sin instrucción acerca de cómo formar esa convicción
 racionalmente. Nieva Fenoll (2015) describe el problema con economía. Una vez rechazadas las
 reglas de la prueba legal, el juez «se deja solo, a fin de que haga lo que haya de hacer a su
