@@ -49,6 +49,7 @@ const NIVEL = {
 const SECCIONES = [
   { archivo: 'tesis/redaccion/cap1-1.1.md', capitulo: 1 },
   { archivo: 'tesis/redaccion/cap1-1.2.md', capitulo: 1 },
+  { archivo: 'tesis/redaccion/cap1-1.3.md', capitulo: 1 },
 ];
 
 const TITULOS_CAPITULO = {

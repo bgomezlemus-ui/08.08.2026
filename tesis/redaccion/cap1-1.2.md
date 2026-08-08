@@ -22,15 +22,15 @@ vuelve graduable y, por tanto, mensurable.
 ### 1.2.1. Sin averiguación de la verdad el derecho fracasa como mecanismo de dirección de conducta
 
 Ferrer Beltrán (2007) aborda el problema desde las condiciones de éxito de la institución
-probatoria. Retoma de Van Fraassen la idea de que para determinar los objetivos de una
-institución conviene determinar primero cuáles son sus condiciones de éxito (Ferrer Beltrán,
-2007, p. 29). El punto de partida es la función directiva del derecho. El legislador dicta
+probatoria. Sostiene que para determinar los objetivos de una institución conviene establecer
+primero cuáles son esas condiciones (p. 29). El punto de partida es la función directiva del derecho. El legislador dicta
 normas para que sus destinatarios realicen o se abstengan de realizar determinadas conductas, y
 añade la amenaza de una sanción para quien no cumpla. Los sistemas jurídicos desarrollados
 prevén, por eso, órganos cuya función principal consiste en determinar la ocurrencia de los
 hechos a los que el derecho vincula consecuencias y en imponerlas a los sujetos previstos
 (Ferrer Beltrán, 2007, p. 29). La cadena completa depende de un eslabón fáctico. Si ese eslabón falla, fallan
-todos los que penden de él.
+todos los que penden de él, por impecable que sea la técnica jurídica del resto de la
+resolución.
 
 El autor prueba la tesis mediante un experimento mental. Supone que la sanción se atribuya
 aleatoriamente, de modo que los órganos de adjudicación sorteen cada mes quién debe ser
@@ -47,8 +47,8 @@ las proposiciones sobre los hechos que se declaran probadas son verdaderas (Ferr
 
 La tesis admite un matiz que conviene incorporar desde ahora. Que la averiguación de la verdad
 sea el objetivo institucional de la prueba no significa que sea el único objetivo del proceso.
-Ferrer Beltrán (2007) recuerda, con Van Fraassen, que afirmar la finalidad de una institución
-no excluye la existencia de otras finalidades o propósitos (p. 31). La regulación jurídica de
+Ferrer Beltrán (2007) advierte que afirmar la finalidad de una institución no excluye la
+existencia de otras finalidades o propósitos (p. 31). La regulación jurídica de
 la prueba impone, en muchos casos, excepciones a las reglas de la epistemología general. Esas
 excepciones protegen otros valores que comparten tutela jurídica con la averiguación de la
 verdad (Ferrer Beltrán, 2007, p. 31). El derecho electoral ofrece ejemplos
@@ -68,7 +68,8 @@ norma presupone que haya ocurrido el hecho que ella misma identifica como condic
 aplica correctamente a hechos falsos o equivocados. La corrección jurídica de la sentencia
 depende, así, de la corrección de su base fáctica.
 
-La afirmación exige una precisión que Taruffo introduce de inmediato. La averiguación de la
+La afirmación admite una lectura desmedida que conviene descartar de entrada, y el propio
+Taruffo introduce la precisión. La averiguación de la
 verdad constituye solo una de las condiciones de justicia de la decisión, que además presupone
 un proceso desarrollado de manera correcta y legítima y una norma interpretada correctamente
 (Taruffo, 2013, p. 14). Se trata de una condición de por sí no suficiente, pero necesaria en

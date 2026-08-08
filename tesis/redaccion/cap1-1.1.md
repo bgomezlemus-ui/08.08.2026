@@ -46,11 +46,13 @@ curiosidad erudita. De ese examen depende el estatuto de toda la propuesta que s
 una racionalidad conquistada es una racionalidad que puede perderse.
 
 Durante un largo periodo la construcción de la premisa fáctica se apoyó en ritos y
-procedimientos mágicos donde no cabía apelación alguna a la razón. La ordalía designa cualquier
-experimento gnoseológico-místico que postula un orden oculto del mundo diagnosticable por vías
-adivinatorias (Cordero, 1981, como se citó en Gascón Abellán, 2010, pp. 12-13). Caminar sobre
-brasas incandescentes sin sufrir lesión resolvía la imputación, y recoger un anillo sumergido
-en agua hirviendo producía idéntico efecto. Esas prácticas no averiguaban hechos: los
+procedimientos mágicos donde no cabía apelación alguna a la razón. Gascón Abellán (2010)
+describe esa etapa como una experiencia mística de búsqueda de la verdad. Añade que a veces se
+trató, más simplemente, de la búsqueda de una decisión aleatoria o de un dictamen sobrenatural,
+antes que de un método con apariencias de racionalidad (p. 12). El caso característico es la ordalía, entendida en sentido
+amplio como duelo judicial, ordalía y juicio de Dios (Gascón Abellán, 2010, p. 12). Caminar
+sobre brasas incandescentes sin sufrir lesión resolvía la imputación, y recoger un anillo
+sumergido en agua hirviendo producía idéntico efecto. Esas prácticas no averiguaban hechos: los
 sustituían por un veredicto de origen sobrenatural. El vencimiento en duelo demuestra la
 fuerza, la destreza o la suerte del reo, pero nada acerca de los hechos imputados. Gascón
 Abellán (2010) concluye que el proceso se convierte entonces en un medio que constituye la
@@ -92,25 +94,28 @@ ambas desembocan en el mismo corolario inquietante: los jueces serían, por defi
 infalibles (p. 40). Ese corolario resulta inadmisible para cualquier teoría que aspire a
 controlar la decisión sobre los hechos, porque un juez infalible es un juez incontrolable.
 
-Alchourrón y Bulygin formularon la objeción con una precisión difícil de mejorar. La decisión
-del tribunal es final porque pone fin a la controversia, pero poner punto final a la discusión
-de la verdad no hace verdadero el enunciado (1991, como se citó en Gascón Abellán, 2010,
-p. 41). La distinción entre verdad y prueba permite dar cuenta del carácter autorizado, aunque
-falible, de la declaración judicial de hechos. Mantenerla obliga a reconocer que la sentencia
-puede equivocarse, y cancelarla convierte el error judicial en una categoría conceptualmente
-imposible. La consecuencia práctica de esa cancelación es considerable. Un sistema que no puede
+Gascón Abellán formula la objeción con una precisión difícil de mejorar. La distinción entre
+esos dos conceptos, escribe, es posible e incluso necesaria si se quiere dar cuenta del carácter
+autorizado, pero falible, de la declaración de hechos de la sentencia (Gascón Abellán, 2010,
+p. 41). Que la decisión ponga fin a la controversia no convierte en verdadero el enunciado que
+la sostiene. Mantener la distinción obliga a reconocer que la sentencia puede equivocarse.
+Cancelarla convierte el error judicial en una categoría conceptualmente imposible. La consecuencia práctica de esa cancelación es considerable. Un sistema que no puede
 pensar su propio error tampoco puede diseñar garantías contra él. Menos aún puede admitir que
-una parte demuestre haberlo padecido, que es precisamente lo que un recurso pretende.
+una parte demuestre haberlo padecido, que es precisamente lo que un recurso pretende. La
+falibilidad de la sentencia no es una concesión al escepticismo: es la condición de que exista
+algo que revisar.
 
 La salida no consiste en elegir entre realismo ingenuo y escepticismo. Gascón Abellán (2010)
 sostiene que ese dilema es infundado y que existe, como poco, una tercera vía (p. 42). Esa vía
 adopta un paradigma epistemológico que toma en serio las tesis postpositivistas sobre la carga
 teórica de la observación, sin renunciar por ello a un cierto realismo. El juicio de hecho pasa
-entonces a concebirse como la elección de la hipótesis racionalmente más atendible entre las
-distintas reconstrucciones posibles de los hechos de la causa. La verdad de los hechos nunca
-resulta absoluta bajo ese paradigma, sino que viene dada por la hipótesis más probable o
-sostenida por mayores elementos de confirmación (Taruffo, 1990, como se citó en Gascón Abellán,
-2010, p. 43). La fórmula anticipa con notable exactitud el estándar escalonado que se propone
+entonces a concebirse como una elección entre reconstrucciones posibles de los hechos de la
+causa. Taruffo (2013) precisa el criterio de esa elección al exponer la regla de la probabilidad
+prevalente. Resulta racional escoger, respecto de un enunciado de hecho, la hipótesis confirmada
+en un nivel mayor al de la hipótesis contraria (p. 61). Cuando concurren varias
+hipótesis sobre el mismo hecho, el criterio racional consiste en elegir la que aparece
+sustentada por un grado de corroboración probatoria relativamente mayor al de todas las demás
+(Taruffo, 2013, p. 62). La fórmula anticipa con exactitud el estándar escalonado que se propone
 en el capítulo cuarto de este trabajo.
 
 El realismo moderado tiene un rendimiento metodológico que conviene subrayar. La distinción

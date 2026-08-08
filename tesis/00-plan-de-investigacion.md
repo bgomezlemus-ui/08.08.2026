@@ -285,8 +285,28 @@ resolverse antes de citar.
 
 ## 10. Restricción de fuentes
 
-La investigación se desarrolla **exclusivamente con las fuentes del repositorio**. Tres
-consecuencias que deben asumirse y declararse en la introducción:
+La investigación se desarrolla **exclusivamente con las fuentes del repositorio**, y de ahí se
+sigue una regla de citación estricta.
+
+### 10.1 Prohibición de la cita de segunda mano
+
+**No se cita ninguna obra que no obre en el repositorio y que no haya sido leída de forma
+directa.** Los autores del corpus citan a su vez a decenas de autores —Cordero, Alchourrón y
+Bulygin, Van Fraassen, Bentham, Popper, Damaska, Twining, Thayer, entre otros— cuyas obras no
+están disponibles. Ninguno de ellos se cita, ni siquiera bajo la fórmula «como se citó en».
+
+La razón no es formal. Una tesis que reprocha a un tribunal haber dado por acreditado un hecho
+sin examinar su fuente no puede, ella misma, dar por buena una cita que no ha verificado en el
+original. El argumento del capítulo tercero se volvería contra el propio trabajo.
+
+Cuando el pasaje útil consiste en una idea que el autor del corpus toma de un tercero, caben dos
+salidas legítimas: atribuir la exposición al autor que sí se leyó, con su página, o localizar
+una formulación equivalente en otra obra del repositorio disponible de forma íntegra. La
+segunda es preferible y se ha aplicado siempre que ha sido posible.
+
+### 10.2 Consecuencias asumidas
+
+Tres consecuencias que deben declararse en la introducción:
 
 - No se citan sentencias de amparo, doctrina o legislación externas, aunque sean pertinentes.
 - Los hechos de contexto de la elección de 2025 se conocen solo a través de SUP-JIN-818/2025.
