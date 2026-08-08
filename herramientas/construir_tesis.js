@@ -68,6 +68,7 @@ const SECCIONES = [
   { archivo: 'tesis/redaccion/cap1-1.7.md', capitulo: 1 },
   { archivo: 'tesis/redaccion/cap1-1.8.md', capitulo: 1 },
   { archivo: 'tesis/redaccion/cap1-1.9.md', capitulo: 1 },
+  { archivo: 'tesis/redaccion/cap1-1.10.md', capitulo: 1 },
 ];
 
 const TITULOS_CAPITULO = {
