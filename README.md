@@ -11,10 +11,28 @@ verificables**
 | `*.pdf` (raíz) | Fuentes. 49 documentos: doctrina, normativa, jurisprudencia y casos interamericanos |
 | `tesis/00-plan-de-investigacion.md` | Protocolo de investigación: problema, hipótesis, objetivos, método, cautelas y cronograma |
 | `tesis/01-` a `tesis/05-` | Esqueletos capitulares, con la fuente asignada a cada apartado |
+| `tesis/redaccion/` | Texto redactado, sección por sección. Fuente del documento Word |
+| `herramientas/construir_tesis.js` | Renderiza `tesis/redaccion/` a Word con los criterios editoriales de la UMSNH |
+| `docs/Gómez,B-2026.08.08-Tesis.docx` | Documento de tesis en construcción |
 | `tesis/anexos/matriz-corpus.md` | Anexo A. Análisis de contenido de las catorce resoluciones |
 | `tesis/anexos/fichas-fuentes.md` | Anexo B. Ficha por fuente: qué aporta y dónde se usa |
 | `herramientas/analisis_corpus.py` | Genera las tablas del anexo A |
 | `docs/Plan_de_tesis.docx` | Protocolo de investigación en Word, formato APA 7 |
+
+## Reconstruir el documento de tesis
+
+```bash
+npm install docx
+node herramientas/construir_tesis.js
+```
+
+El documento se regenera completo en cada ejecución. Para agregar una sección nueva basta con
+redactarla en `tesis/redaccion/` y añadir el archivo a la lista `SECCIONES` del constructor.
+
+Formato aplicado: Arial 12, interlineado 1.5, tamaño carta, márgenes superior e inferior de
+2.5 cm e izquierdo y derecho de 3 cm, sangría de primera línea de 1.25 cm, espaciamiento cero
+entre párrafos, numeración romana en preliminares y arábiga desde el capítulo 1. Citas en
+APA 7 con autor, año y página.
 
 ## Reproducir el análisis del corpus
 
