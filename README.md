@@ -14,6 +14,8 @@ verificables**
 | `tesis/redaccion/` | Texto redactado, sección por sección. Fuente del documento Word |
 | `herramientas/construir_tesis.js` | Renderiza `tesis/redaccion/` a Word con los criterios editoriales de la UMSNH |
 | `docs/Gómez,B-2026.08.08-Tesis.docx` | Documento de tesis en construcción |
+| `docs/Gómez,B-2026.08.08-Tesis.pdf` | Render en PDF para revisión visual |
+| `herramientas/compilar.sh` | Compilación en dos pasadas con índice e inspección de maquetado |
 | `tesis/anexos/matriz-corpus.md` | Anexo A. Análisis de contenido de las catorce resoluciones |
 | `tesis/anexos/fichas-fuentes.md` | Anexo B. Ficha por fuente: qué aporta y dónde se usa |
 | `herramientas/analisis_corpus.py` | Genera las tablas del anexo A |
@@ -22,12 +24,19 @@ verificables**
 ## Reconstruir el documento de tesis
 
 ```bash
+apt-get install -y --no-install-recommends libreoffice-writer poppler-utils
 npm install docx
-node herramientas/construir_tesis.js
+bash herramientas/compilar.sh
 ```
 
-El documento se regenera completo en cada ejecución. Para agregar una sección nueva basta con
-redactarla en `tesis/redaccion/` y añadir el archivo a la lista `SECCIONES` del constructor.
+`compilar.sh` corre dos pasadas: construye con el índice en blanco, renderiza a PDF para medir
+en qué página cae cada encabezado, y reconstruye con los números reales. Después verifica que
+no queden títulos huérfanos al pie ni páginas en blanco. El número de renglones del índice es
+el mismo en ambas pasadas, de modo que la paginación no se desplaza.
+
+Para agregar una sección nueva basta con redactarla en `tesis/redaccion/` y añadirla a la lista
+`SECCIONES` del constructor. `node herramientas/construir_tesis.js` genera el `.docx` sin
+actualizar el índice, y sirve para revisiones rápidas.
 
 Formato aplicado: Arial 12, interlineado 1.5, tamaño carta, márgenes superior e inferior de
 2.5 cm e izquierdo y derecho de 3 cm, sangría de primera línea de 1.25 cm, espaciamiento cero

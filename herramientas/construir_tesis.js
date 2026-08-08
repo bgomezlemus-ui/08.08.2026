@@ -23,7 +23,8 @@ const fs = require('fs');
 const path = require('path');
 const {
   Document, Packer, Paragraph, TextRun, AlignmentType, PageOrientation,
-  Footer, PageNumber, NumberFormat, PageBreak, HeadingLevel, TableOfContents,
+  Footer, PageNumber, NumberFormat, PageBreak, HeadingLevel,
+  TabStopType, LeaderType,
 } = require('docx');
 
 // ---------------------------------------------------------------- constantes
@@ -33,10 +34,21 @@ const CARTA = { width: 12240, height: 15840 };
 const MARGEN = { top: 2.5 * CM, bottom: 2.5 * CM, left: 3 * CM, right: 3 * CM };
 
 const FUENTE = 'Arial';
+const NEGRO = '000000';               // los estilos Heading de Word aplican azul por defecto
 const CUERPO = 24;                    // 12 pt (half-points)
 const MENOR = 22;                     // 11 pt
 const INTERLINEADO = 360;             // 1.5 líneas
 const SANGRIA = 1.25 * CM;
+const ANCHO_UTIL = CARTA.width - MARGEN.left - MARGEN.right;
+
+// Índice generado en dos pasadas: compilar.sh renderiza, mide en qué página cae
+// cada encabezado y escribe docs/.indice.json. Sin ese archivo los números salen
+// en blanco, pero el número de renglones es el mismo, de modo que la paginación
+// no cambia entre una pasada y otra.
+const RUTA_INDICE = path.join(RAIZ, 'docs', '.indice.json');
+const PAGINAS = fs.existsSync(RUTA_INDICE)
+  ? JSON.parse(fs.readFileSync(RUTA_INDICE, 'utf8'))
+  : {};
 
 // Sangrías de encabezado por nivel, según la tabla de criterios editoriales.
 const NIVEL = {
@@ -64,14 +76,15 @@ function runs(texto, { size = CUERPO, bold = false } = {}) {
     const it = p.startsWith('*') && p.endsWith('*') && p.length > 2;
     return new TextRun({
       text: it ? p.slice(1, -1) : p,
-      font: FUENTE, size, bold, italics: it,
+      font: FUENTE, size, bold, italics: it, color: NEGRO,
     });
   });
 }
 
-const vacio = (size = CUERPO) => new Paragraph({
+const vacio = (size = CUERPO, keepNext = false) => new Paragraph({
   spacing: { line: INTERLINEADO, before: 0, after: 0 },
-  children: [new TextRun({ text: '', font: FUENTE, size })],
+  keepNext,
+  children: [new TextRun({ text: '', font: FUENTE, size, color: NEGRO })],
 });
 
 /** Párrafo de cuerpo. La primera línea lleva sangría salvo tras un título. */
@@ -102,43 +115,49 @@ function encabezado(numeral, texto, nivel) {
     spacing: { line: INTERLINEADO, before: 0, after: 0 },
     alignment: AlignmentType.LEFT,
     indent: { left: cfg.left, hanging: cfg.hanging },
+    keepNext: true,
+    keepLines: true,
     children: [
-      new TextRun({ text: numeral + ' ', font: FUENTE, size: CUERPO }),
-      new TextRun({ text: texto, font: FUENTE, size: CUERPO, italics: true }),
+      new TextRun({ text: numeral + ' ', font: FUENTE, size: CUERPO, color: NEGRO }),
+      new TextRun({ text: texto, font: FUENTE, size: CUERPO, italics: true, color: NEGRO }),
     ],
   });
 }
 
 /** Portada del capítulo: cinco líneas en blanco, título en negritas centrado. */
-function portadaCapitulo(numero, titulo) {
-  const out = [new Paragraph({ children: [new PageBreak()] })];
+function portadaCapitulo(numero, titulo, primero) {
+  // La sección del cuerpo ya abre en página nueva: el salto solo hace falta
+  // a partir del segundo capítulo.
+  const out = primero ? [] : [new Paragraph({ children: [new PageBreak()] })];
   for (let i = 0; i < 5; i++) out.push(vacio());
   out.push(new Paragraph({
     heading: HeadingLevel.HEADING_1,
     spacing: { line: INTERLINEADO, before: 0, after: 0 },
     alignment: AlignmentType.CENTER,
-    children: [new TextRun({ text: `Capítulo ${numero}`, font: FUENTE, size: CUERPO, bold: true })],
+    keepNext: true,
+    children: [new TextRun({ text: `Capítulo ${numero}`, font: FUENTE, size: CUERPO, bold: true, color: NEGRO })],
   }));
   out.push(new Paragraph({
     spacing: { line: INTERLINEADO, before: 0, after: 0 },
     alignment: AlignmentType.CENTER,
-    children: [new TextRun({ text: titulo, font: FUENTE, size: CUERPO, bold: true })],
+    keepNext: true,
+    children: [new TextRun({ text: titulo, font: FUENTE, size: CUERPO, bold: true, color: NEGRO })],
   }));
-  out.push(vacio());
+  out.push(vacio(CUERPO, true));
   return out;
 }
 
 /** SUMARIO: vocablo en versalitas, numerales en redonda, títulos en cursivas. */
 function sumario(texto) {
   const hijos = [new TextRun({
-    text: 'Sumario: ', font: FUENTE, size: MENOR, smallCaps: true,
+    text: 'Sumario: ', font: FUENTE, size: MENOR, smallCaps: true, color: NEGRO,
   })];
   // "1.1. Título. 1.2. Título." -> numeral redonda + título cursiva
   const re = /(\d+(?:\.\d+)+\.)\s*([^.]*(?:\.(?!\s*\d)[^.]*)*\.)\s*/g;
   let m;
   while ((m = re.exec(texto)) !== null) {
-    hijos.push(new TextRun({ text: m[1] + ' ', font: FUENTE, size: MENOR }));
-    hijos.push(new TextRun({ text: m[2].trim() + ' ', font: FUENTE, size: MENOR, italics: true }));
+    hijos.push(new TextRun({ text: m[1] + ' ', font: FUENTE, size: MENOR, color: NEGRO }));
+    hijos.push(new TextRun({ text: m[2].trim() + ' ', font: FUENTE, size: MENOR, italics: true, color: NEGRO }));
   }
   return new Paragraph({
     spacing: { line: INTERLINEADO, before: 0, after: 0 },
@@ -207,18 +226,18 @@ preliminares.push(new Paragraph({
   spacing: { before: 2400, line: INTERLINEADO }, alignment: AlignmentType.CENTER,
   children: [new TextRun({
     text: 'El déficit de estándares de valoración probatoria en la justicia electoral mexicana:',
-    font: FUENTE, size: CUERPO, bold: true })],
+    font: FUENTE, size: CUERPO, bold: true, color: NEGRO })],
 }));
 preliminares.push(new Paragraph({
   spacing: { line: INTERLINEADO }, alignment: AlignmentType.CENTER,
   children: [new TextRun({
     text: 'protocolo de adminiculación indiciaria y umbral de suficiencia verificables',
-    font: FUENTE, size: CUERPO, bold: true })],
+    font: FUENTE, size: CUERPO, bold: true, color: NEGRO })],
 }));
 for (let i = 0; i < 6; i++) preliminares.push(vacio());
 preliminares.push(new Paragraph({
   spacing: { line: INTERLINEADO }, alignment: AlignmentType.CENTER,
-  children: [new TextRun({ text: 'Tesis de Maestría', font: FUENTE, size: CUERPO })],
+  children: [new TextRun({ text: 'Tesis de Maestría', font: FUENTE, size: CUERPO, color: NEGRO })],
 }));
 preliminares.push(new Paragraph({
   spacing: { line: INTERLINEADO }, alignment: AlignmentType.CENTER,
@@ -234,13 +253,26 @@ preliminares.push(new Paragraph({
 preliminares.push(new Paragraph({ children: [new PageBreak()] }));
 preliminares.push(new Paragraph({
   spacing: { line: INTERLINEADO }, alignment: AlignmentType.CENTER,
-  children: [new TextRun({ text: 'Índice', font: FUENTE, size: CUERPO, bold: true })],
+  children: [new TextRun({ text: 'Índice', font: FUENTE, size: CUERPO, bold: true, color: NEGRO })],
 }));
 preliminares.push(vacio());
-preliminares.push(new TableOfContents('Índice', { hyperlink: true, headingStyleRange: '1-3' }));
+
+/** Renglón de índice: título a la izquierda, página a la derecha con puntos guía. */
+function lineaIndice(texto, pagina, nivel) {
+  return new Paragraph({
+    spacing: { line: INTERLINEADO, before: 0, after: 0 },
+    indent: { left: nivel * 0.5 * CM, right: 0 },
+    tabStops: [{ type: TabStopType.RIGHT, position: ANCHO_UTIL, leader: LeaderType.DOT }],
+    children: [
+      new TextRun({ text: texto + '\t', font: FUENTE, size: MENOR, color: NEGRO }),
+      new TextRun({ text: String(pagina ?? ''), font: FUENTE, size: MENOR, color: NEGRO }),
+    ],
+  });
+}
 
 // Cuerpo
 const cuerpo = [];
+const indiceEntradas = [];
 let capActual = null;
 let primerParrafoTrasTitulo = false;
 
@@ -248,15 +280,20 @@ for (const sec of SECCIONES) {
   const md = fs.readFileSync(path.join(RAIZ, sec.archivo), 'utf8');
   if (sec.capitulo !== capActual) {
     capActual = sec.capitulo;
-    cuerpo.push(...portadaCapitulo(capActual, TITULOS_CAPITULO[capActual]));
+    cuerpo.push(...portadaCapitulo(capActual, TITULOS_CAPITULO[capActual], cuerpo.length === 0));
+    indiceEntradas.push({
+      texto: `Capítulo ${capActual}. ${TITULOS_CAPITULO[capActual]}`,
+      clave: `cap${capActual}`, nivel: 0,
+    });
     primerParrafoTrasTitulo = true;
   }
   for (const b of parsear(md)) {
-    if (b.t === 's') { cuerpo.push(sumario(b.v)); cuerpo.push(vacio()); primerParrafoTrasTitulo = true; continue; }
+    if (b.t === 's') { cuerpo.push(sumario(b.v)); cuerpo.push(vacio(CUERPO, true)); primerParrafoTrasTitulo = true; continue; }
     if (b.t === 'h') {
       cuerpo.push(vacio());
       cuerpo.push(encabezado(b.num, b.v, b.nivel));
-      if (NIVEL[b.nivel].blancoDespues) cuerpo.push(vacio());
+      indiceEntradas.push({ texto: `${b.num} ${b.v}`, clave: b.num, nivel: b.nivel });
+      if (NIVEL[b.nivel].blancoDespues) cuerpo.push(vacio(CUERPO, true));
       primerParrafoTrasTitulo = true;
       continue;
     }
@@ -266,15 +303,20 @@ for (const sec of SECCIONES) {
   }
 }
 
+// El índice se arma con los encabezados recogidos al construir el cuerpo.
+for (const e of indiceEntradas) {
+  preliminares.push(lineaIndice(e.texto, PAGINAS[e.clave], e.nivel));
+}
+
 const pie = (fmt) => new Footer({
   children: [new Paragraph({
     alignment: AlignmentType.CENTER,
-    children: [new TextRun({ children: [PageNumber.CURRENT], font: FUENTE, size: MENOR })],
+    children: [new TextRun({ children: [PageNumber.CURRENT], font: FUENTE, size: MENOR, color: NEGRO })],
   })],
 });
 
 const doc = new Document({
-  styles: { default: { document: { run: { font: FUENTE, size: CUERPO } } } },
+  styles: { default: { document: { run: { font: FUENTE, size: CUERPO, color: NEGRO } } } },
   sections: [
     {
       properties: {
