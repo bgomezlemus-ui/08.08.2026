@@ -265,7 +265,17 @@ resolverse antes de citar.
 7. **La CPEUM del repositorio está actualizada al DOF 02-06-2026** e incorpora el nuevo inciso
    d) del artículo 41 Base VI y la reforma al artículo 96. Es la base correcta para el
    capítulo 4.
-8. **Capas de texto defectuosas.** Varios PDF antiguos —señaladamente SUP-JRC-349/2001,
+8. **OCR degradado en pasajes subrayados de Ferrer Beltrán.** El PDF conserva marcas de
+   subrayado y resaltado que corrompen la extracción de texto en esos tramos (p. ej., en la
+   p. 30: «sólo si el ~~udicial cumple la funcl~-~q_e_t§..i:.minar la verdad»). Esos pasajes
+   **no pueden citarse de forma textual**: hay que parafrasearlos o transcribirlos leyendo el
+   documento. El resto de la obra extrae limpio.
+9. **Desfases de paginación verificados.** Ninguna obra del repositorio tiene numeración que
+   coincida con el índice del PDF. Los desfases confirmados son: Gascón Abellán, impresa = idx
+   (233 pp.); Taruffo, impresa = idx + 4 (verificado con 102 marcadores de página); Ferrer
+   Beltrán, impresa = idx + 10 (verificado con 130 encabezados). En Taruffo el número impreso
+   aparece **al final del cuerpo**, antes de la marca de agua de la UNAM, no en el encabezado.
+10. **Capas de texto defectuosas.** Varios PDF antiguos —señaladamente SUP-JRC-349/2001,
    SUP-JRC-166/2021 y SUP-JRC-101/2022— tienen una capa de texto que omite espacios de forma
    sistemática («calidadde convicción», «adminiculados conotros elementos»). **Ninguna cita
    textual debe copiarse del texto extraído**: hay que transcribirla leyendo el PDF. El cotejo
