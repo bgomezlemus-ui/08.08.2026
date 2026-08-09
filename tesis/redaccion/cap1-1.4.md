@@ -21,16 +21,15 @@ debe aparecer en una sentencia para que la valoración pueda discutirse.
 
 González Lagier (2005) distingue, a efectos analíticos, dos fases dentro de la ambigua palabra
 prueba. La primera consiste en la práctica de las pruebas y en la obtención de información a
-partir de ellas, esto es, a partir de lo que dicen los testigos, los documentos y los peritos
-(pp. 53-54). La segunda consiste en extraer una conclusión a partir de la información obtenida en
-la primera (González Lagier, 2005, p. 54). La primera fase establece las premisas del argumento
-que trata de probar una hipótesis, y la segunda realiza la inferencia que permite pasar de esas
-premisas a la conclusión. Obtener información y extraer de ella una conclusión son operaciones
+partir de ellas, esto es, a partir de lo que dicen los testigos, los documentos y los peritos.
+La segunda consiste en extraer una conclusión a partir de la información obtenida en la primera
+(pp. 53-54). La primera fase establece las premisas del argumento que trata de probar una
+hipótesis, y la segunda realiza la inferencia que permite pasar de esas premisas a la conclusión. Obtener información y extraer de ella una conclusión son operaciones
 distintas, y confundirlas lleva a tratar como dato lo que ya es resultado de un razonamiento.
 
-El razonamiento de la segunda fase rara vez consta de un solo paso. El autor advierte que puede
-ser muy complejo y constar de un encadenamiento de argumentos o inferencias parciales (González
-Lagier, 2005, p. 54). En el extremo inicial de la cadena figura la información obtenida
+El razonamiento de la segunda fase rara vez consta de un solo paso. Puede ser muy complejo y
+constar de un encadenamiento de argumentos o inferencias parciales (González Lagier, 2005,
+p. 54). En el extremo inicial de la cadena figura la información obtenida
 directamente de las pruebas practicadas, y en el extremo final una hipótesis sobre lo ocurrido.
 Entre ambos extremos se sitúan premisas y conclusiones intermedias, cada una de las cuales resulta
 de una inferencia previa. La consecuencia metodológica es considerable: controlar una inferencia
@@ -40,11 +39,10 @@ resto del razonamiento.
 
 El autor ilustra el punto con un ejemplo que conviene reproducir por su precisión. Un policía
 declara que se encontró en la vivienda de Ticio un arma del mismo calibre que la que causó la
-muerte de Cayo. González Lagier (2005) observa que la información obtenida directamente es que el
-policía declara que el arma fue encontrada, no que realmente el arma fuera encontrada (p. 54). Lo
-segundo ya es el resultado de la valoración de la fiabilidad de tal declaración, esto es, el
-resultado de un razonamiento y de una inferencia (González Lagier, 2005, p. 54). La observación
-parece obvia y no lo es. Entre el documento y el hecho media siempre una inferencia que suele
+muerte de Cayo. La información obtenida directamente es que el policía declara que el arma fue
+encontrada, no que realmente el arma fuera encontrada. Lo segundo ya es el resultado de la
+valoración de la fiabilidad de tal declaración, esto es, el resultado de un razonamiento y de
+una inferencia (González Lagier, 2005, p. 54). La observación parece obvia y no lo es. Entre el documento y el hecho media siempre una inferencia que suele
 quedar tácita, y de esa inferencia depende el valor de todo lo que se construya encima. Cuando un
 tribunal afirma que un acordeón impreso acredita la existencia de una estrategia de distribución,
 o cuando niega que la acredite, está resolviendo esa inferencia sin enunciarla.
@@ -54,19 +52,18 @@ o cuando niega que la acredite, está resolviendo esa inferencia sin enunciarla.
 González Lagier reconstruye la inferencia probatoria con un esquema argumentativo de cuatro
 elementos, que atribuye a Toulmin. La pretensión es aquello que se sostiene y las razones son los
 datos que la apoyan. La garantía explica por qué esas razones apoyan esa pretensión, y el respaldo
-muestra la corrección o vigencia de la garantía. El autor precisa que la garantía consiste siempre
-en una regla, norma o enunciado general (González Lagier, 2005, p. 56). Los dos primeros elementos
+muestra la corrección o vigencia de la garantía. La garantía consiste siempre en una regla, norma o enunciado general. Los dos primeros elementos
 son particulares del caso y los dos últimos son generales, distinción que explica por qué unos se
 acreditan con pruebas y otros con argumentos. Los cuatro elementos deben estar presentes en toda
 argumentación, sea jurídica, científica o de la vida cotidiana (González Lagier, 2005, p. 56), y
 esa generalidad es lo que permite trasladar el esquema sin forzarlo a un ámbito determinado.
 
 El traslado al razonamiento judicial sobre hechos resulta directo. Los hechos probatorios
-constituyen las razones del argumento, y los hechos a probar, la pretensión o hipótesis del caso
-(González Lagier, 2005, p. 57). La garantía queda constituida por las máximas de experiencia, las
-presunciones y otros enunciados generales, que correlacionan el tipo de hechos señalado en las
-razones con el señalado en la pretensión. El respaldo queda configurado, por su parte, por la
-información necesaria para fundamentar la garantía (González Lagier, 2005, p. 57). La inferencia
+constituyen las razones del argumento, y los hechos a probar, la pretensión o hipótesis del caso.
+La garantía queda constituida por las máximas de experiencia, las presunciones y otros enunciados
+generales, que correlacionan el tipo de hechos señalado en las razones con el señalado en la
+pretensión. El respaldo queda configurado por la información necesaria para fundamentar la
+garantía (González Lagier, 2005, p. 57). La inferencia
 probatoria se deja describir, en consecuencia, como el paso de unos hechos probatorios a unos
 hechos a probar mediante una garantía apoyada en un respaldo. La descripción es sencilla, y por eso
 resulta utilizable como rejilla de lectura de cualquier sentencia: basta preguntar, ante cada
@@ -102,8 +99,8 @@ periodístico.
 
 ### 1.4.3. Las fuentes de la garantía
 
-González Lagier (2005) desagrega la garantía en tres clases (p. 61). La primera son las máximas de
-experiencia, que el autor subdivide a su vez. Pueden ser de carácter científico o especializado,
+La garantía se desagrega en tres clases (González Lagier, 2005, p. 61). La primera son las
+máximas de experiencia, que a su vez se subdividen. Pueden ser de carácter científico o especializado,
 como las que aportan los peritos, o de carácter jurídico, como las derivadas del ejercicio
 profesional del juez. Pueden ser también de carácter privado, derivadas de las experiencias del
 juzgador al margen de su profesión. La segunda clase son las presunciones, que se establecen legal
@@ -134,14 +131,12 @@ máxima enunciada puede discutirse y refutarse; una máxima tácita solo puede i
 resultado, de modo que la parte que quiera combatirla debe adivinarla primero.
 
 Los hechos probatorios admiten, además, grados de interpretación, según se sitúen más cerca de lo
-meramente percibido o incorporen el sentido que se atribuye a lo percibido (González Lagier, 2005,
-p. 60). El autor añade una regla de tendencia: cuanto más se avanza en la cadena de razonamientos,
-más interpretados resultan los hechos probatorios (González Lagier, 2005, p. 60). El material que
-sirve de base a los últimos eslabones no tiene, por tanto, la misma calidad epistémica que el de
-los primeros, y tratar todos los hechos probatorios como equivalentes ignora esa degradación
-progresiva.
-
-Los hechos probatorios pueden ser, a su vez, el resultado de otra inferencia del mismo tipo (González Lagier, 2005, p. 60). La prueba consiste entonces en el
+meramente percibido o incorporen el sentido que se atribuye a lo percibido. Cuanto más se avanza
+en la cadena de razonamientos, más interpretados resultan los hechos probatorios, y pueden ser a
+su vez el resultado de otra inferencia del mismo tipo (González Lagier, 2005, p. 60). El material
+que sirve de base a los últimos eslabones no tiene, por tanto, la misma calidad epistémica que el
+de los primeros, y tratar todos los hechos probatorios como equivalentes ignora esa degradación
+progresiva. La prueba consiste entonces en el
 encadenamiento de varias inferencias sustancialmente análogas, y cada una de ellas reproduce la
 estructura de cuatro elementos. La conclusión converge con lo que la Suprema Corte estableció al
 fijar los alcances de la prueba indiciaria, pues la eficacia de la prueba circunstancial disminuye
