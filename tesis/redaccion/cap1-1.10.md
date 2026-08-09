@@ -16,8 +16,7 @@ interna del planteamiento: una categoría que no se traduce en una pregunta veri
 para controlar nada, y sería incoherente reprochar a los tribunales la vaguedad de sus criterios
 empleando criterios igualmente vagos.
 
-Conviene advertir el estatuto de lo que sigue. Las nueve categorías no son una doctrina ajena
-importada en bloque. Siete reproducen tesis sostenidas por los autores del corpus y una octava
+Las nueve categorías no son una doctrina ajena importada en bloque. Siete reproducen tesis sostenidas por los autores del corpus y una octava
 —la sexta— resulta de una operación de deslinde entre posiciones enfrentadas. La novena, que
 ordena las anteriores en forma de rejilla, es propia y de ella se responde. Ninguna de las nueve
 determina el resultado de un caso; todas determinan qué debe constar en una sentencia para que el

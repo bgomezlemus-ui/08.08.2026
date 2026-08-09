@@ -60,10 +60,9 @@ Lo mismo sucede con un documento, pues habrá que inferir que su contenido es ci
 Lagier, 2005, p. 82). La declaración y el documento acreditan de forma inmediata su propia
 existencia, no la del hecho que refieren.
 
-De ahí se siguen dos consecuencias operativas. La primera es que esas inferencias intermedias, a
-las que rara vez se presta atención, son inevitables, y cada una puede ser un punto débil de la
-argumentación en su conjunto (González Lagier, 2005, p. 82). La segunda es una regla de graduación:
-la fiabilidad de los hechos probatorios es mayor cuanto menor es la cadena de inferencias que lleva
+Esas inferencias intermedias, a las que rara vez se presta atención, son inevitables, y cada una puede ser un punto débil de la
+argumentación en su conjunto (González Lagier, 2005, p. 82). De ahí una regla de graduación: la
+fiabilidad de los hechos probatorios es mayor cuanto menor es la cadena de inferencias que lleva
 hasta ellos (González Lagier, 2005, p. 82). El autor añade una observación que desactiva una
 distinción muy arraigada, pues en sentido estricto la única prueba directa es la observación
 inmediata por el juez (González Lagier, 2005, p. 82). Todo lo demás resulta mediato en algún grado,
@@ -123,8 +122,8 @@ desautoricen el paso de los hechos probatorios a la hipótesis (González Lagier
 exigencia obliga a considerar las regularidades que juegan en contra, y no solo las que favorecen
 la conclusión adoptada.
 
-Ese criterio se acompaña de una advertencia sobre las reglas construidas para la ocasión. Si la
-regla se elaboró para explicar el caso concreto que el juez debe decidir, entonces no se basa en
+Las reglas construidas para la ocasión merecen advertencia aparte. Si la regla se elaboró para
+explicar el caso concreto que el juez debe decidir, entonces no se basa en
 una inducción ampliativa bien fundada (González Lagier, 2005, p. 87). La máxima construida a la
 medida del caso resulta inservible, porque carece de la generalidad que es justamente lo que
 convierte a un enunciado en garantía. El autor precisa también el estatuto de las presunciones, que
@@ -185,17 +184,16 @@ tanto subsidiaria. Ninguno de los dos suple la falta de apoyo empírico, de modo
 coherente y simple pero desprovista de confirmación sigue siendo una conjetura, por elegante que
 resulte su formulación.
 
-La advertencia con que el autor introduce los once criterios resulta tan importante como los
-criterios mismos. La solidez de la inferencia probatoria es gradual en dos sentidos distintos
-(González Lagier, 2005, p. 80). En una inferencia dada pueden estar presentes más o menos criterios,
+La solidez de la inferencia probatoria es gradual en dos sentidos distintos, advertencia que el
+autor formula al introducir los once criterios y que pesa tanto como ellos (González Lagier,
+2005, p. 80). En una inferencia dada pueden estar presentes más o menos criterios,
 y la ausencia de alguno no constituye por sí sola razón para rechazarla; casi todos los criterios
 pueden cumplirse, además, en mayor o menor medida (González Lagier, 2005, p. 80). Esa doble
 gradualidad impide convertir los once criterios en una lista de requisitos cuya falta invalide la
 inferencia. Los criterios describen un espectro y no un umbral, y confundirlos llevaría a un
 formalismo tan rígido como el sistema de prueba tasada que la libre valoración vino a superar.
 
-La distinción entre espectro y umbral condiciona el uso legítimo de estos criterios. Una lista de
-requisitos sustituiría la libre valoración por una prueba tasada de nuevo cuño; una rejilla de
+Una lista de requisitos sustituiría la libre valoración por una prueba tasada de nuevo cuño; una rejilla de
 exteriorización deja intacta la libertad valorativa y suprime únicamente su opacidad. El juzgador
 conserva íntegra la facultad de apreciar el material probatorio y pierde solo la de no explicar cómo
 lo apreció. Los criterios permiten decir, en definitiva, cuán sólida es una inferencia, pero no

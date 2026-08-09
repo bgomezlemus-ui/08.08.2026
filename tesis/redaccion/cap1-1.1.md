@@ -107,8 +107,8 @@ ambas desembocan en el mismo corolario inquietante: los jueces serían, por defi
 infalibles (p. 40). Ese corolario resulta inadmisible para cualquier teoría que aspire a
 controlar la decisión sobre los hechos, porque un juez infalible es un juez incontrolable.
 
-La objeción admite una formulación difícil de mejorar. La distinción entre esos dos conceptos,
-escribe la autora, es posible e incluso necesaria si se quiere dar cuenta del carácter
+La distinción entre esos dos conceptos, escribe la autora, es posible e incluso necesaria si se
+quiere dar cuenta del carácter
 autorizado, pero falible, de la declaración de hechos de la sentencia (Gascón Abellán, 2010,
 p. 41). Que la decisión ponga fin a la controversia no convierte en verdadero el enunciado que
 la sostiene. Mantener la distinción obliga a reconocer que la sentencia puede equivocarse;
@@ -129,13 +129,13 @@ en un nivel mayor al de la hipótesis contraria (p. 61). Cuando concurren varias
 el mismo hecho, el criterio racional consiste en elegir la que aparece sustentada por un grado
 de corroboración probatoria relativamente mayor al de todas las demás (Taruffo, 2013, p. 62).
 
-El rendimiento de esa tercera vía es metodológico antes que especulativo. La distinción entre
-verdad y prueba pone de manifiesto la necesidad de establecer garantías epistemológicas para que
-la declaración de hechos se aproxime lo más posible a la verdad (Gascón Abellán, 2010, p. 41).
-La simetría del argumento merece atención. Un tribunal que se declara infalible no necesita
-garantías epistemológicas, porque por hipótesis nunca yerra; un tribunal que niega la
-posibilidad de conocer tampoco las necesita, porque no hay nada que garantizar. Solo el realismo
-moderado las vuelve exigibles.
+La distinción entre verdad y prueba pone de manifiesto la necesidad de establecer garantías
+epistemológicas para que la declaración de hechos se aproxime lo más posible a la verdad (Gascón
+Abellán, 2010, p. 41). Un tribunal que se declara infalible no necesita esas garantías, porque
+por hipótesis nunca yerra; un tribunal que niega la posibilidad de conocer tampoco las necesita,
+porque no hay nada que garantizar. Solo el realismo moderado las vuelve exigibles, y ahí reside
+su rendimiento: no es una posición intermedia adoptada por prudencia, sino la única desde la
+cual cabe reclamar un control.
 
 Ese realismo se concreta en un modelo determinado de conocimiento judicial de hechos. Gascón
 Abellán (2010) lo formula en los siguientes términos:
@@ -168,26 +168,23 @@ pp. 49-50). Las tres dificultades se acumulan cuando la prueba es indirecta, y r
 máximo las garantías de verdad del proceso supone entonces una exigencia de motivación (Gascón
 Abellán, 2010, p. 50).
 
-La primera de esas dificultades tiene un alcance mayor del que su enunciado sugiere. El juzgador
-electoral no presenció la entrega de propaganda ni la intervención de servidores públicos en la
-jornada. Lo que tiene ante sí son enunciados sobre esos hechos, contenidos en documentos,
+El juzgador electoral no presenció la entrega de propaganda ni la intervención de servidores
+públicos en la jornada. Lo que tiene ante sí son enunciados sobre esos hechos, contenidos en documentos,
 imágenes y notas informativas de fiabilidad desigual. Acreditar la verdad de cada uno de esos
 enunciados, antes de relacionarlos entre sí, resulta condición de que exista material sobre el
 cual razonar. Un tribunal que no fija el hecho fuente no dispone de premisas, sino de
 afirmaciones.
 
-El modelo cumple, por lo demás, dos funciones que conviene distinguir con cuidado. Como esquema
-teórico permite describir de manera simplificada realidades que en la práctica son complejas, y
-como parámetro permite medir esas mismas realidades desde el propio modelo (Gascón Abellán,
-2010, p. 47). Lo buscado es un modelo epistemológico teórico y útil (Gascón Abellán, 2010,
+Como esquema teórico, el modelo permite describir de manera simplificada realidades que en la
+práctica son complejas, y como parámetro permite medir esas mismas realidades desde el propio
+modelo (Gascón Abellán, 2010, p. 47). Lo buscado es un modelo epistemológico teórico y útil (Gascón Abellán, 2010,
 p. 48), cuya utilidad consiste en examinar los procedimientos reales y en realizar una crítica
 epistémica sobre ellos, comparándolos con los principios derivados del modelo y proponiendo la
 reforma de los aspectos que se separen de él. Describir y proponer son operaciones distintas, y
 mantenerlas separadas evita que la crítica se confunda con el diagnóstico.
 
-La autora acompaña el modelo de una advertencia que conviene retener. Un modelo de
-descubrimiento no puede confundirse con el descubrimiento mismo, ni un modelo de justificación
-con la justificación. Confundirlos supone incurrir en la falacia normativista de quien toma el
+Un modelo de descubrimiento no puede confundirse con el descubrimiento mismo, ni un modelo de
+justificación con la justificación. Confundirlos supone incurrir en la falacia normativista de quien toma el
 deber ser por el ser (Gascón Abellán, 2010, pp. 48-49). El riesgo consiste en presentar la
 práctica real «como si» transcurriera conforme al modelo. Cualquier protocolo de valoración
 corre exactamente ese peligro, porque puede degradarse hasta convertirse en una plantilla que

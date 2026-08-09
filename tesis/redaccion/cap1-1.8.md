@@ -38,8 +38,8 @@ motiva es auténtica o si basta para justificar la decisión (Laudan, 2005, p. 9
 
 ### 1.8.2. La corrupción de la duda razonable y las dos vías convencionales
 
-El problema no es teórico. Laudan (2005) documenta cómo la historia del derecho procesal penal
-anglo-estadounidense registra precisamente ese proceso de degradación. El estándar oficial es la
+La historia del derecho procesal penal anglo-estadounidense registra ese proceso de degradación,
+según documenta Laudan (2005). El estándar oficial es la
 «duda razonable», expresión que en su origen significaba una medida epistemológica precisa,
 relacionada con la epistemología de Locke y el cálculo de probabilidades (Laudan, 2005, p. 99). A
 lo largo del siglo XX, sin embargo, fue deliberada y lentamente desplumada de su contenido
@@ -48,8 +48,7 @@ la culpabilidad» (Laudan, 2005, p. 99). La forma jurídica se mantuvo —los ju
 pronunciando las palabras «más allá de una duda razonable»—, pero el contenido se evaporó, y lo que
 quedó en su lugar fue la convicción íntima del juzgador.
 
-La consecuencia es que el estándar se convirtió en parasitario de su propia base: el jurado debe
-determinar si la culpabilidad se ha probado, pero sin regla que le diga cuándo ha alcanzado esa
+El estándar se volvió así parasitario de su propia base: el jurado debe determinar si la culpabilidad se ha probado, pero sin regla que le diga cuándo ha alcanzado esa
 convicción (Laudan, 2005, p. 106). En esas circunstancias, como el autor observa, «hoy en día, el
 punto de vista oficial de la Corte Suprema es que una condición necesaria y suficiente para
 condenar al acusado en un juicio penal es una creencia firme de la culpabilidad por parte del
@@ -101,7 +100,7 @@ convencer a uno de la culpabilidad de otro no van a persuadir a un tercero de es
 modo que no cabe esperar «ni uniformidad ni justicia si cada juez utiliza sus propios criterios»
 (Laudan, 2005, p. 95). La apariencia de uniformidad oculta divergencias imposibles de detectar.
 
-Hay un nivel más profundo en el que la subjetividad incapacita al estándar. Laudan (2005) sostiene
+La subjetividad incapacita al estándar en un nivel todavía más profundo. Laudan (2005) sostiene
 que el único mecanismo para distribuir errores en favor del acusado es un estándar no subjetivo de
 la prueba, y que si se sitúa ese estándar en la altura correcta capturará completamente las
 creencias compartidas acerca de la razón apropiada de absoluciones falsas a condenas falsas
@@ -116,8 +115,7 @@ tenga respecto de la culpabilidad del acusado (Laudan, 2005, p. 106). No hay for
 antemano cuál será el resultado, porque depende de datos que no pueden controlarse: las creencias
 privadas de cada juez acerca de lo que es probable o seguro.
 
-La conclusión operativa resulta directamente aplicable al problema mexicano. Si el estándar de
-prueba fuese formulado en términos de una probabilidad específica, sería casi seguro que muchos de
+Si el estándar de prueba fuese formulado en términos de una probabilidad específica, sería casi seguro que muchos de
 los jurados que han decidido que el acusado cometió el delito estarían en apuros para determinar,
 de una manera que no sea meramente arbitraria, si su confianza en la culpabilidad satisfizo o no
 las demandas impuestas por ese estándar (Laudan, 2005, p. 103). La razón es que la confianza
@@ -125,8 +123,8 @@ subjetiva no se mide: nadie sabe cuánto de confianza es «90%» en términos de
 Si no puede especificarse, tampoco puede verificarse, y si no puede verificarse no es un estándar
 sino una excusa.
 
-El punto crítico toca el núcleo de la controlabilidad judicial. Para que un estándar funcione debe
-comunicar algo más que una invitación a decidir conforme a la propia conciencia: debe decir, de
+Para que un estándar funcione debe comunicar algo más que una invitación a decidir conforme a la
+propia conciencia: debe decir, de
 forma precisa, cuándo se ha alcanzado la certeza suficiente. Mientras ese decir quede implícito o
 privatizado en la mente del juzgador, el derecho a impugnar queda convertido en derecho a adivinar.
 Las partes no saben qué tenían que probar, y los jueces de apelación no saben qué tenían que

@@ -72,9 +72,8 @@ hechos a probar mediante una garantía apoyada en un respaldo. La descripción e
 resulta utilizable como rejilla de lectura de cualquier sentencia: basta preguntar, ante cada
 conclusión fáctica, cuáles fueron las razones, cuál la garantía y cuál el respaldo.
 
-Esa descripción tiene un rendimiento inmediato para el control de la decisión, porque cada uno de
-los cuatro elementos puede faltar y la falta de cada uno produce un vicio distinto. Si faltan las
-razones, no hay material sobre el cual razonar. Si falta la garantía, el paso de las razones a la
+Cada uno de los cuatro elementos puede faltar, y la falta de cada uno produce un vicio distinto.
+Si faltan las razones, no hay material sobre el cual razonar. Si falta la garantía, el paso de las razones a la
 pretensión queda sin justificar y solo cabe aceptarlo por autoridad. Si falta el respaldo, la
 garantía se afirma sin fundamento y puede ser una generalización arbitraria. Y si la pretensión no
 se enuncia con precisión, no se sabe qué se está probando ni, por tanto, cuándo quedaría probado.
@@ -134,8 +133,7 @@ explicitación es una de las puertas por las que entra la discrecionalidad no co
 máxima enunciada puede discutirse y refutarse; una máxima tácita solo puede intuirse a partir del
 resultado, de modo que la parte que quiera combatirla debe adivinarla primero.
 
-Dos observaciones adicionales del autor completan el cuadro y agravan el problema. La primera es
-que los hechos probatorios admiten grados de interpretación, según se sitúen más cerca de lo
+Los hechos probatorios admiten, además, grados de interpretación, según se sitúen más cerca de lo
 meramente percibido o incorporen el sentido que se atribuye a lo percibido (González Lagier, 2005,
 p. 60). El autor añade una regla de tendencia: cuanto más se avanza en la cadena de razonamientos,
 más interpretados resultan los hechos probatorios (González Lagier, 2005, p. 60). El material que
@@ -143,8 +141,7 @@ sirve de base a los últimos eslabones no tiene, por tanto, la misma calidad epi
 los primeros, y tratar todos los hechos probatorios como equivalentes ignora esa degradación
 progresiva.
 
-La segunda observación es que los hechos probatorios pueden ser a su vez el resultado de otra
-inferencia del mismo tipo (González Lagier, 2005, p. 60). La prueba consiste entonces en el
+Los hechos probatorios pueden ser, a su vez, el resultado de otra inferencia del mismo tipo (González Lagier, 2005, p. 60). La prueba consiste entonces en el
 encadenamiento de varias inferencias sustancialmente análogas, y cada una de ellas reproduce la
 estructura de cuatro elementos. La conclusión converge con lo que la Suprema Corte estableció al
 fijar los alcances de la prueba indiciaria, pues la eficacia de la prueba circunstancial disminuye

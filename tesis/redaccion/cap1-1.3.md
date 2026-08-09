@@ -56,9 +56,8 @@ proceso electoral. La observación no es una crítica, sino la constatación de 
 decidió sacrificar riqueza epistémica en el primer momento, lo que vuelve más exigente el
 tratamiento del material que sí logró entrar.
 
-Ese sacrificio tiene, además, una contrapartida institucional que conviene registrar. Ferrer
-Beltrán (2007) sostiene que el control de racionalidad puede funcionar a posteriori bajo una
-condición: debe exigirse al decisor que justifique por qué declaró probados esos hechos y cuál fue
+Ese empobrecimiento tiene una contrapartida institucional. Ferrer Beltrán (2007) sostiene que el
+control de racionalidad puede funcionar a posteriori bajo una condición: debe exigirse al decisor que justifique por qué declaró probados esos hechos y cuál fue
 el apoyo empírico en el que basó su decisión (p. 44). Los sistemas que carecen de esa exigencia de
 motivación deben compensarla con reglas de exclusión abundantes, fijadas por anticipado; los que
 sí la imponen pueden admitir más material y controlar después. El derecho electoral mexicano
@@ -78,8 +77,7 @@ veredicto sobre la verdad: produce una magnitud, que es el grado de apoyo confer
 hipótesis en competencia. Esa magnitud admite comparación, y confundirla con la conclusión es el
 primer paso hacia una decisión incontrolable.
 
-Dos observaciones del autor precisan el alcance de esa magnitud. La primera es que el resultado de
-la valoración es siempre contextual, esto es, referido a un determinado conjunto de elementos de
+El resultado de la valoración es siempre contextual, esto es, referido a un determinado conjunto de elementos de
 juicio (Ferrer Beltrán, 2007, p. 45). Si el conjunto cambia por adición o sustracción de algún
 elemento, el resultado puede perfectamente ser otro. La consecuencia práctica es de enorme
 importancia: omitir del conjunto un elemento que consta en el expediente no constituye un descuido
@@ -88,9 +86,8 @@ prueba obrante en autos no comete un error de detalle; valora un conjunto distin
 ante sí, y obtiene por ello un grado de confirmación que no corresponde al caso que resuelve. El
 vicio no está en la conclusión, sino en el conjunto sobre el que se razonó.
 
-La segunda observación desmonta un equívoco extendido sobre la libre valoración. Ferrer Beltrán
-(2007) precisa que esa libertad existe solo en el sentido de que la valoración no está sujeta a
-normas jurídicas que predeterminen su resultado (p. 45). La operación de juzgar el apoyo empírico
+La libertad que la libre valoración concede existe solo en el sentido de que la valoración no
+está sujeta a normas jurídicas que predeterminen su resultado (Ferrer Beltrán, 2007, p. 45). La operación de juzgar el apoyo empírico
 que un conjunto de elementos aporta a una hipótesis permanece sujeta a los criterios generales de
 la lógica y de la racionalidad (Ferrer Beltrán, 2007, p. 45). Libertad frente a la prueba tasada no
 equivale, en consecuencia, a libertad frente a la razón. El autor califica este segundo momento
@@ -142,9 +139,8 @@ que ninguna de las dos decisiones resulte controlable. La arbitrariedad no consi
 mal, sino en decidir sin que nadie pueda verificar contra qué se decidió, y la objeción alcanza
 por igual a las resoluciones que anulan y a las que confirman.
 
-La última observación del autor refuerza el argumento desde un ángulo inesperado. Ni siquiera cabe
-presumir que la hipótesis más confirmada sea la que deba tenerse por probada (Ferrer Beltrán, 2007,
-p. 48). El estándar penal de la duda razonable ilustra esa posibilidad, pues supone que la
+Ni siquiera cabe presumir que la hipótesis más confirmada sea la que deba tenerse por probada
+(Ferrer Beltrán, 2007, p. 48). El estándar penal de la duda razonable ilustra esa posibilidad, pues supone que la
 hipótesis de la culpabilidad no se tendrá por probada aunque cuente con más apoyo empírico que la
 de la inocencia, salvo corroboración muy alta (Ferrer Beltrán, 2007, p. 48). El umbral puede, en
 consecuencia, invertir el resultado de la valoración y no solo confirmarlo. Quien no lo enuncia se

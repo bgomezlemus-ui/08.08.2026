@@ -30,8 +30,8 @@ imponerlas a los sujetos previstos (Ferrer Beltrán, 2007, p. 29). La cadena com
 un eslabón fáctico, y si ese eslabón falla, fallan todos los que penden de él, por impecable que
 sea la técnica jurídica del resto de la resolución.
 
-La demostración de esa dependencia admite un experimento mental. El autor supone que la sanción
-se atribuya aleatoriamente, de modo que los órganos de adjudicación sorteen cada mes quién debe
+El autor prueba esa dependencia mediante un experimento mental. Supone que la sanción se
+atribuya aleatoriamente, de modo que los órganos de adjudicación sorteen cada mes quién debe
 ser sancionado y cuántas sanciones se impondrán (Ferrer Beltrán, 2007, p. 30). En ese escenario
 no existe vinculación alguna entre la conducta de cada miembro de la sociedad y la probabilidad
 de ser sancionado. Nadie tiene entonces razón para comportarse conforme a las normas jurídicas.
@@ -43,8 +43,8 @@ jurídicas (p. 30). El éxito de la institución probatoria se produce, en conse
 proposiciones sobre los hechos que se declaran probadas son verdaderas (Ferrer Beltrán, 2007,
 pp. 30-31).
 
-La tesis admite un matiz que conviene incorporar de inmediato. Que la averiguación de la verdad
-sea el objetivo institucional de la prueba no significa que sea el único objetivo del proceso.
+Que la averiguación de la verdad sea el objetivo institucional de la prueba no significa que sea
+el único objetivo del proceso.
 Ferrer Beltrán (2007) advierte que afirmar la finalidad de una institución no excluye la
 existencia de otras finalidades o propósitos (p. 31). La regulación jurídica de la prueba impone,
 en muchos casos, excepciones a las reglas de la epistemología general, y esas excepciones
@@ -63,9 +63,7 @@ relevantes. La aplicación correcta de la norma presupone que haya ocurrido el h
 misma identifica como condición (Taruffo, 2013, p. 13). El autor lo resume en una fórmula
 memorable: ninguna norma se aplica correctamente a hechos falsos o equivocados.
 
-Esa afirmación admite una lectura desmedida que conviene descartar de entrada, y el propio
-Taruffo introduce la precisión. La averiguación de la verdad constituye solo una de las
-condiciones de justicia de la decisión, que además presupone un proceso desarrollado de manera
+La averiguación de la verdad constituye solo una de las condiciones de justicia de la decisión, que además presupone un proceso desarrollado de manera
 correcta y legítima y una norma interpretada correctamente (Taruffo, 2013, p. 14). Se trata de
 una condición de por sí no suficiente, pero necesaria en todo caso. Que los hechos no se
 establezcan de manera verdadera basta para que la decisión sea injusta, aunque el proceso se haya
@@ -98,8 +96,8 @@ concluye con ella. La prueba queda reducida a una parte del rito, y su función 
 retóricamente persuasiva hacia el público (Taruffo, 2013, p. 82). Sirve para hacer creer que la
 decisión final no fue arbitraria, no para establecer que no lo fue.
 
-La consecuencia no admite suavizarse. El procedimiento de creación y asunción de la prueba sirve,
-bajo esa concepción, para crear una apariencia, de un modo no distinto de lo que sucede en una
+El procedimiento de creación y asunción de la prueba sirve, bajo esa concepción, para crear una
+apariencia, de un modo no distinto de lo que sucede en una
 representación teatral (Taruffo, 2013, p. 82). El fenómeno admite una lectura benévola, porque un
 teatro judicial que funciona bien produce consenso social sobre la administración de justicia. La
 objeción es que esa forma de pensar deja fuera el contenido y la calidad de la decisión. El autor
@@ -117,8 +115,7 @@ ella deja de lado el contenido y la calidad de la decisión (p. 83). Ocurre con 
 victoria corresponde a la parte que desarrolló la mejor narración por ser retóricamente más
 eficaz, sin que esa narración tenga relación con la realidad de los hechos.
 
-Una consecuencia común a ambas concepciones merece subrayarse. Ninguna de ellas exige que el
-juzgador valore el material probatorio, porque en ambas el resultado depende de algo distinto del
+Ninguna de las dos concepciones exige que el juzgador valore el material probatorio, porque en ambas el resultado depende de algo distinto del
 conocimiento de los hechos. Una sentencia puede, por tanto, cumplir todas las formas del rito
 —admitir pruebas, celebrar la sesión, publicar la resolución— sin haber ejecutado en ningún
 momento la operación epistémica que la justifica. La distinción de Taruffo permite nombrar con
@@ -170,9 +167,8 @@ exclusivo, por ser la única manera posible de adquirir conocimiento de los hech
 y resulta además indispensable adquirir todas las pruebas disponibles (Taruffo, 2013, p. 86). Un
 tribunal que ignora un elemento que consta en el expediente incumple esa exigencia.
 
-Queda por resolver qué ocurre cuando el material no alcanza, y el autor cierra el razonamiento
-con una precisión sobre ese déficit. Cuando un hecho no resulta suficientemente probado, el juez
-no puede pronunciar un *non liquet* y debe decidir de todos modos. Habrá de hacerlo, entonces,
+Cuando un hecho no resulta suficientemente probado, el juez no puede pronunciar un *non liquet*
+y debe decidir de todos modos. Habrá de hacerlo, entonces,
 aplicando la regla de juicio basada en la carga de la prueba, en lugar del conocimiento de los
 hechos (Taruffo, 2013, p. 86). Un tribunal que estima insuficiente el material probatorio dispone
 así de una salida legítima y nombrable, que consiste en declararlo y resolver conforme a esa

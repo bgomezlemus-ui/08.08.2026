@@ -42,8 +42,7 @@ desatiende indebidamente las circunstancias del caso concreto (Amaya, 2015, p. 9
 convergen en un mismo reproche: tratar cada elemento por separado destruye información que solo
 existe en la relación entre ellos.
 
-De ese diagnóstico deriva una tesis positiva que interesa retener. Conforme a la versión del
-holismo que Amaya expone, no cabe extraer conclusiones fácticas a partir de elementos de prueba
+Conforme a la versión del holismo que Amaya expone, no cabe extraer conclusiones fácticas a partir de elementos de prueba
 aislados, por notables que resulten. El juzgador debe ponderar la prueba y alcanzar una conclusión
 solo después de haber examinado el conjunto del material del caso (Amaya, 2015, p. 95). El
 enunciado tiene consecuencias prácticas inmediatas para el control de las sentencias, porque
@@ -80,9 +79,9 @@ que carecen por separado.
 
 ### 1.6.3. Los riesgos del holismo y el dominio de cada modelo
 
-La exposición anterior sería tendenciosa si omitiera las objeciones que el holismo ha recibido.
-Amaya (2015) las recoge con detalle y conviene asumirlas en lugar de esquivarlas. La primera
-sostiene que las teorías coherentistas están seriamente subdesarrolladas, y que conceptos clave
+El holismo ha recibido objeciones serias que Amaya (2015) recoge con detalle y que conviene
+asumir en lugar de esquivar. La primera sostiene que las teorías coherentistas están seriamente
+subdesarrolladas, y que conceptos clave
 como plausibilidad y coherencia se emplean de manera imprecisa. La consecuencia es grave: las
 teorías holistas no proporcionan un criterio claro para escoger entre explicaciones alternativas de
 los hechos en competencia (Amaya, 2015, p. 125). Una teoría que no ofrece criterio de elección
@@ -118,8 +117,8 @@ inferencia jurídica (Amaya, 2015, p. 96). Ningún modelo por sí solo la descri
 de modo que un retrato de la inferencia racional exige recurrir a varias teorías de la prueba
 lógicamente dispares (Amaya, 2015, p. 96).
 
-De ahí se sigue un desplazamiento de la pregunta. La cuestión correcta no consiste en determinar si
-un modelo de inferencia es o no correcto, sino en determinar cuál es el dominio propio de cada uno
+La cuestión correcta no consiste, por tanto, en determinar si un modelo de inferencia es o no
+correcto, sino en determinar cuál es el dominio propio de cada uno
 (Amaya, 2015, p. 97). Formulada así, la disputa entre atomismo y holismo deja de ser una elección
 entre doctrinas rivales y se convierte en un problema de asignación, consistente en determinar qué
 operación corresponde a cada fase del razonamiento probatorio. La reformulación permite conservar
@@ -137,8 +136,8 @@ conjunto, sino sustituir el examen de cada elemento por la impresión global de 
 narrativa. Su posición y la segunda objeción al atomismo resultan, así, compatibles entre sí, y
 ambas sostienen el mandato del artículo 16, párrafo 3.
 
-De esa compatibilidad deriva la regla que gobierna la adminiculación. Se trata de una agregación
-analítica y no de una apreciación narrativa: exige valorar primero cada elemento y determinar
+La adminiculación queda así gobernada por una regla precisa. Es una agregación analítica y no una
+apreciación narrativa: exige valorar primero cada elemento y determinar
 después el grado de corroboración que el conjunto confiere a la hipótesis. La secuencia responde a
 la fórmula que Ferrer Beltrán expresa al exigir la valoración individual y en conjunto, y no
 autoriza a sustituir el examen de los elementos por la elección del relato más convincente. Con esa

@@ -52,17 +52,17 @@ un control sobre ese irreductible espacio de discrecionalidad que es el ámbito 
 valoración, y constituye por ello la «garantía de cierre del sistema cognoscitivista» (Gascón,
 2010, p. 177).
 
-Interesa fijar con exactitud qué aporta y qué no aporta esa garantía. La convicción subjetiva falla
-en tres frentes, pues no es medida, no puede comunicarse y no puede verificarse. La motivación
+La convicción subjetiva falla en tres frentes, pues no es medida, no puede comunicarse y no puede
+verificarse. La motivación
 resuelve los dos últimos y no resuelve el primero: obliga a comunicar y hace posible verificar,
 pero no dice cuánto basta. Una sentencia puede estar impecablemente motivada y aplicar, sin
 decirlo, un umbral distinto del que aplicó la sentencia anterior sobre el mismo tipo de hechos.
 Motivación y estándar son, por tanto, exigencias complementarias y no intercambiables, y
 confundirlas conduce al error de suponer que basta escribir más para decidir mejor.
 
-Esa garantía se despliega en dos funciones que conviene distinguir. Gascón (2010) las expone como
-función extraprocesal —política, democrática, vinculada al control externo de la decisión— y
-función endoprocesal —técnico-jurídica, vinculada al control interno mediante los recursos—
+Gascón (2010) desdobla esa garantía en dos funciones: la extraprocesal —política, democrática,
+vinculada al control externo de la decisión— y la endoprocesal —técnico-jurídica, vinculada al
+control interno mediante los recursos—
 (p. 178). La primera consiste en mostrar el esfuerzo realizado por el juez en el juicio de hecho y
 posibilitar de ese modo un control público. La segunda facilita a los órganos de revisión un
 conocimiento más claro y detallado de las razones del fallo, y facilita también a la parte
@@ -159,9 +159,8 @@ juzgador, porque «la motivación no puede resumirse en un "esto es así porque 
 ciertos hechos es frecuente y no siempre se distingue lo que es de dominio público de lo que el
 juzgador simplemente sabe.
 
-De la distinción se sigue, por último, un rendimiento que desactiva la objeción de que exigir
-motivación convierte al órgano revisor en una nueva instancia sobre los hechos. Gascón (2010)
-precisa que «el control sobre la motivación sólo enjuicia si las argumentaciones esgrimidas en
+Exigir motivación no convierte al órgano revisor en una nueva instancia sobre los hechos. Gascón
+(2010) precisa que «el control sobre la motivación sólo enjuicia si las argumentaciones esgrimidas en
 favor de una decisión permiten sostener ésta, de manera que si la motivación no resulta adecuada no
 se le abre al órgano de control […] la vía para valorar él mismo la prueba —y por lo tanto adoptar
 una nueva decisión—, sino sólo la posibilidad de poner de manifiesto el vicio de motivación»
@@ -182,8 +181,8 @@ externa de la premisa fáctica atañen las razones por las que el juzgador recon
 manera los hechos, lo que implica proveer argumentos racionales relativos a cómo evaluó las pruebas
 y a las inferencias lógicas mediante las cuales llegó a sus conclusiones (Taruffo, 2013, p. 105).
 
-De ahí derivan dos exigencias concretas. La primera recae sobre la valoración de cada elemento: el
-juez tiene que explicar por qué consideró confiable o no a un testigo, y «debe explicar con base en
+La primera exigencia concreta recae sobre la valoración de cada elemento: el juez tiene que
+explicar por qué consideró confiable o no a un testigo, y «debe explicar con base en
 qué inferencias consideró que un indicio dado lleva a una determinada conclusión relativa a un
 hecho de la causa» (Taruffo, 2013, p. 105). La segunda recae sobre lo descartado. Es necesario que
 el juez explicite su motivación no sólo respecto de las pruebas que evaluó positivamente, sino
@@ -207,8 +206,7 @@ verdaderamente ocurre cuando se admite la llamada motivación implícita: «la r
 parece querer sugerirse, (solo) a la expresión de la motivación, sino a la motivación misma»
 (p. 290).
 
-Un supuesto exige precisión, porque toca de cerca el mandato de valoración conjunta. Gascón (2010)
-denuncia la figura jurisprudencial de la apreciación conjunta de la prueba, que en la práctica «no
+Gascón (2010) denuncia la figura jurisprudencial de la apreciación conjunta de la prueba, que en la práctica «no
 es, pues, al final, sino un subterfugio "formal" que hace pasar por discurso justificatorio lo que
 no lo es en absoluto; un expediente, en fin, que propicia y encubre la ausencia de motivación»
 (p. 177). La objeción podría parecer dirigida contra la valoración relacional que el artículo 16,
@@ -218,12 +216,11 @@ valora primero cada elemento y determina después el grado de corroboración que
 a la hipótesis. La primera sustituye la motivación por una fórmula; la segunda la multiplica,
 porque obliga a justificar tanto los elementos como la relación que guardan entre sí.
 
-Resta convertir lo anterior en contenido exigible. Gascón (2010) lo ofrece al examinar qué exige la
-motivación de una hipótesis fáctica, que es el tipo de enunciado con el que opera la prueba por
-indicios. Una hipótesis está justificada si no ha sido refutada y es confirmada por las pruebas
-disponibles más que cualquier otra, de modo que están presentes en esa justificación tres
-elementos: no refutación, confirmación y mayor confirmación que cualquier otra hipótesis sobre los
-mismos hechos (pp. 195-196). Cada elemento impone deberes precisos. Justificar que la hipótesis no
+Una hipótesis fáctica —el tipo de enunciado con el que opera la prueba por indicios— está
+justificada si no ha sido refutada y es confirmada por las pruebas disponibles más que cualquier
+otra, de modo que están presentes en esa justificación tres elementos: no refutación,
+confirmación y mayor confirmación que cualquier otra hipótesis sobre los mismos hechos (Gascón,
+2010, pp. 195-196). Cada elemento impone deberes precisos. Justificar que la hipótesis no
 ha sido refutada supone demostrar que no ha habido contrapruebas o que las eventuales contrapruebas
 han sido destruidas (p. 196). Justificar que está confirmada requiere tres operaciones: exponer y
 justificar las pruebas o indicios de los que se parte, exponer y justificar la ley general —máxima
@@ -252,8 +249,8 @@ la exigencia: ordenar el razonamiento en forma justificativa obliga al juzgador 
 material probatorio ya contrastado, a verificar la forma en que lo ha sido y a hacer explícitas las
 máximas de experiencia empleadas (p. 286).
 
-Falta el problema del órgano que controla. Andrés Ibáñez (1992) desmonta la coartada que con más
-frecuencia se opone a la revisión del juicio de hecho. La inmediación «es, qué duda cabe, una
+Andrés Ibáñez (1992) desmonta la coartada que con más frecuencia se opone a la revisión del
+juicio de hecho. La inmediación «es, qué duda cabe, una
 garantía, pero sólo de carácter instrumental, preordenada a hacer posible a partir del contacto
 directo, una valoración racional de los actos probatorios, que pueda a su vez ser racionalmente
 enjuiciada por terceros» (p. 297). Cuando se la usa como barrera para vetar el acceso al examen del
@@ -265,9 +262,7 @@ el juicio, distinción que el autor toma de Ferrajoli y que permite admitir el c
 la adecuación de la motivación en materia de hecho, esto es, sobre la carencia de confirmaciones o
 sobre la presencia o no experimentación de contrapruebas (pp. 296-298).
 
-Una formulación jurisprudencial que el autor transcribe merece registro, porque su vocabulario
-coincide de manera casi literal con el del derecho mexicano. Una resolución del Tribunal Supremo
-español de 1989 declaró controlable un «segundo nivel de valoración judicial», relativo a las
+Una resolución del Tribunal Supremo español de 1989, que el autor transcribe, declaró controlable un «segundo nivel de valoración judicial», relativo a las
 deducciones e inducciones que el tribunal realiza a partir de los hechos percibidos directamente, y
 razonó que esas inferencias pueden controlarse «precisamente porque no dependen sustancialmente de
 la inmediación, sino de la corrección del razonamiento que se debe fundar en las reglas de la
@@ -278,10 +273,9 @@ esos son los patrones que la ley impone, esos mismos son los patrones respecto d
 valoración puede ser revisada: el mandato legal de valorar de cierto modo es, al mismo tiempo, el
 título para controlar que se haya valorado de ese modo.
 
-La consecuencia final la enuncia el propio Andrés Ibáñez (1992). El defecto de motivación produce
-indefensión y encarna una forma de ejercicio arbitrario de un poder público, y ello no sólo en el
-caso de motivación incorrecta, sino también en el de pura y simple falta de expresión de la
-motivación (p. 299). Taruffo (2013) cierra el círculo desde el otro extremo: «a la *intime
+El defecto de motivación produce indefensión y encarna una forma de ejercicio arbitrario de un
+poder público, y ello no sólo en el caso de motivación incorrecta, sino también en el de pura y
+simple falta de expresión de la motivación (Andrés Ibáñez, 1992, p. 299). Taruffo (2013) cierra el círculo desde el otro extremo: «a la *intime
 conviction* sólo puede corresponderle una falta de motivación o una motivación ficticia» (p. 107).
 Las dos afirmaciones describen los dos polos de un mismo continuo. En un extremo, la sentencia que
 motiva mal; en el otro, la que no motiva. Y entre ambas, la que clausura el análisis antes de tener
