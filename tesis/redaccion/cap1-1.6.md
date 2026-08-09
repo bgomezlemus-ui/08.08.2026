@@ -22,7 +22,7 @@ valoración relacional resista la objeción más seria que puede dirigírsele.
 ### 1.6.1. Las objeciones al tratamiento aislado de los elementos de prueba
 
 Amaya (2015) reconstruye el debate entre atomismo y holismo en la teoría de la prueba y recoge
-tres objeciones dirigidas contra el primero (pp. 94-95). La primera sostiene que la prueba de todo
+tres objeciones dirigidas contra el primero. La primera sostiene que la prueba de todo
 caso controvertido se compone de elementos pertenecientes al menos a dos relatos contradictorios,
 uno falso y otro verdadero, que aparecen entremezclados. Solo al adoptar la decisión final cabe
 identificar cuáles de esos elementos pertenecen al relato verdadero y cuáles al falso. De ahí que
@@ -33,12 +33,12 @@ final, cuando ya se conoce a qué relato pertenece cada pieza.
 
 La segunda objeción resulta la más pertinente para el derecho electoral mexicano. En la medida en
 que los elementos de prueba están enlazados entre sí formando un todo conectado, ningún elemento
-debe tratarse de manera aislada respecto de los demás, contra lo que el atomismo requiere (Amaya,
-2015, pp. 94-95). La formulación describe con exactitud la operación que el artículo 16, párrafo 3,
+debe tratarse de manera aislada respecto de los demás, contra lo que el atomismo requiere. La
+formulación describe con exactitud la operación que el artículo 16, párrafo 3,
 ordena cuando manda atender al recto raciocinio de la relación que los elementos guardan entre sí.
 La tercera objeción sostiene que el enfoque atomista socava el carácter fáctico de la prueba
 judicial, al convertir los hechos en proposiciones inferidas de la experiencia general, con lo que
-desatiende indebidamente las circunstancias del caso concreto (Amaya, 2015, p. 95). Las tres
+desatiende indebidamente las circunstancias del caso concreto (Amaya, 2015, pp. 94-95). Las tres
 convergen en un mismo reproche: tratar cada elemento por separado destruye información que solo
 existe en la relación entre ellos.
 
@@ -79,29 +79,26 @@ que carecen por separado.
 
 ### 1.6.3. Los riesgos del holismo y el dominio de cada modelo
 
-El holismo ha recibido objeciones serias que Amaya (2015) recoge con detalle y que conviene
-asumir en lugar de esquivar. La primera sostiene que las teorías coherentistas están seriamente
-subdesarrolladas, y que conceptos clave
+El holismo ha recibido objeciones serias que conviene asumir en lugar de esquivar. La primera
+sostiene que las teorías coherentistas están seriamente subdesarrolladas, y que conceptos clave
 como plausibilidad y coherencia se emplean de manera imprecisa. La consecuencia es grave: las
-teorías holistas no proporcionan un criterio claro para escoger entre explicaciones alternativas de
-los hechos en competencia (Amaya, 2015, p. 125). Una teoría que no ofrece criterio de elección
-resulta inservible como fundamento de cualquier método de valoración, porque un método necesita
-precisamente eso. La objeción no es menor ni externa: proviene, según recoge Amaya, de autores
-simpatizantes del propio holismo.
+teorías holistas no proporcionan un criterio claro para escoger entre explicaciones alternativas
+de los hechos en competencia. Una teoría que no ofrece criterio de elección resulta inservible
+como fundamento de cualquier método de valoración, porque un método necesita precisamente eso.
+La objeción no es menor ni externa: proviene de autores simpatizantes del propio holismo.
 
 La segunda objeción advierte sobre los riesgos del enfoque que considera el caso como un todo. Los
 relatos pueden emplearse para introducir de contrabando consideraciones irrelevantes y para desviar
 la atención de las debilidades del argumento. Sirven también para apelar a la emoción antes que a
-la razón y para recurrir a prejuicios o estereotipos ocultos (Amaya, 2015, p. 125). La conclusión
-que Amaya recoge resume el problema con precisión: los relatos son sin duda necesarios, pero
-peligrosos. El riesgo tiene traducción electoral evidente, pues una narración coherente sobre una
+la razón y para recurrir a prejuicios o estereotipos ocultos. Los relatos son sin duda necesarios,
+pero peligrosos (Amaya, 2015, p. 125). El riesgo tiene traducción electoral evidente, pues una narración coherente sobre una
 elección irregular puede resultar persuasiva sin que ninguno de sus elementos esté acreditado. Lo
 mismo cabe decir de la narración contraria, que presenta el proceso como impecable apoyándose en la
 sola regularidad formal de sus etapas. El peligro opera, por tanto, en ambas direcciones.
 
 Taruffo figura entre quienes formulan esa advertencia. Amaya (2015) recoge que el autor previene
 contra los peligros de adoptar un enfoque holista, porque sugiere decidir con base en algo distinto
-de las pruebas (p. 125), de modo que las teorías holistas desatenderían problemas como la
+de las pruebas, de modo que las teorías holistas desatenderían problemas como la
 definición del hecho, la relevancia de la prueba y la carga probatoria. En su propia obra Taruffo
 (2013) resulta todavía más tajante, pues considera inatendible y desviante la perspectiva holística
 propuesta por algunos exponentes del narrativismo judicial (p. 59). La objeción no admite despacho
@@ -110,12 +107,12 @@ rápido y obliga a precisar con cuidado qué se toma del holismo y qué se deja 
 La salida de la disyuntiva la ofrece, dentro de la propia exposición de Amaya, el enfoque
 conciliador de Tillers, cuyo propósito no consiste tanto en defender una versión del holismo como
 en reconciliar holismo y atomismo. Ninguno de los dos permite ofrecer un retrato fiel del
-razonamiento sobre hechos en el derecho (Amaya, 2015, p. 95). El enfoque atomista pasa por alto que
+razonamiento sobre hechos en el derecho. El enfoque atomista pasa por alto que
 el significado de la prueba se adhiere a veces al conjunto del material, y tanto el análisis
 atomista como las apreciaciones holistas desempeñan, en consecuencia, un papel importante en la
-inferencia jurídica (Amaya, 2015, p. 96). Ningún modelo por sí solo la describe de manera completa,
+inferencia jurídica. Ningún modelo por sí solo la describe de manera completa,
 de modo que un retrato de la inferencia racional exige recurrir a varias teorías de la prueba
-lógicamente dispares (Amaya, 2015, p. 96).
+lógicamente dispares (Amaya, 2015, pp. 95-96).
 
 La cuestión correcta no consiste, por tanto, en determinar si un modelo de inferencia es o no
 correcto, sino en determinar cuál es el dominio propio de cada uno

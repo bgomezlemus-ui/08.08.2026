@@ -35,7 +35,7 @@ La diferencia tiene consecuencias prácticas decisivas, porque un principio nega
 resolver la cuestión de cómo proceder una vez rechazado el apriorismo legal. Una vez que la ley no
 fija el valor de la prueba, el juzgador debe determinar ese valor mediante algún método. La libre
 convicción marca dónde no se puede estar —bajo la coacción de reglas legales— pero no marca dónde
-se debe estar. De ahí que Gascón afirme que «la libre valoración no puede interpretarse más que en
+se debe estar: «la libre valoración no puede interpretarse más que en
 su significado primigenio: un *principio metodológico (negativo)*. Pero un principio metodológico y
 sólo eso. No, por tanto, un *criterio (positivo)* de valoración» (Gascón, 2010, p. 142). La línea
 que separa ambas cosas es la que separa lo permitido de lo prescrito: la libre convicción permite
@@ -48,9 +48,10 @@ El uso posterior de la libre convicción se apartó de ese significado originari
 entenderse como rechazo del apriorismo legal, pasó a interpretarse como «valoración libre, sin
 sujeción a reglas de ningún tipo» (Gascón, 2010, p. 142). Con ese cambio de significado, la libre
 convicción dejó de ser una garantía epistemológica y se convirtió en una puerta abierta a la
-subjetividad descontrolada. La gravedad de la deriva no es apreciación aislada: Gascón (2010)
-recoge que Ferrajoli no duda en calificarla como «una de las páginas políticamente más amargas e
-intelectualmente más deprimentes de la historia de las instituciones penales» (p. 34). El juzgador
+subjetividad descontrolada. La gravedad de la deriva no es apreciación aislada: Ferrajoli no duda
+en calificarla como «una de las páginas políticamente más amargas e
+intelectualmente más deprimentes de la historia de las instituciones penales» (Gascón, 2010,
+p. 34). El juzgador
 recibía el encargo de «decidir según su conciencia» o según su «íntima convicción», pero sin
 instrucción acerca de cómo formar esa convicción racionalmente.
 
@@ -74,10 +75,10 @@ si la culpabilidad se ha probado sin regla que le diga cuándo ha alcanzado esa 
 2005, p. 106).
 
 La convergencia entre ambas tradiciones es más profunda de lo que su distinto vocabulario sugiere.
-Nieva Fenoll (2015) observa que el subjetivismo es la base del sistema, aunque eso sea lo mismo que
-no decir nada, y concluye que «en realidad, las frases construidas por la doctrina alemana en nada
+El subjetivismo es la base del sistema, aunque eso sea lo mismo que
+no decir nada: «en realidad, las frases construidas por la doctrina alemana en nada
 se diferencian de los estándares de prueba anglosajones. No orientan a jurados, sino a jueces, pero
-su finalidad es exactamente la misma» (p. 92). Si todos los jueces declaran tener «convicción» pero
+su finalidad es exactamente la misma» (Nieva Fenoll, 2015, p. 92). Si todos los jueces declaran tener «convicción» pero
 ninguno especifica en qué consiste, entonces no existe criterio verificable de que todos apliquen
 el mismo. La apariencia de uniformidad oculta divergencias imposibles de detectar.
 
@@ -85,23 +86,21 @@ el mismo. La apariencia de uniformidad oculta divergencias imposibles de detecta
 
 Algo parecido ocurre con la «sana crítica», aunque su historia sea distinta. La expresión, que
 remite a la «buena conciencia» medieval, aparece en fuentes españolas desde el siglo XIX como
-alternativa discreta al lenguaje de la «libre convicción». Nieva Fenoll (2015) examina su evolución
-y concluye que nunca fue un criterio sustantivo sino una referencia poco precisa a máximas de
-experiencia. El artículo 317 de la Ley de Enjuiciamiento Civil de 1855 disponía que los jueces
-valorarían las declaraciones testificales «según las reglas de la sana crítica», pero esa
-referencia «no aporta mucho en toda esta materia» (Nieva Fenoll, 2015, p. 88), porque no especifica
-qué reglas son las de la sana crítica ni cómo aplicarlas.
+alternativa discreta al lenguaje de la «libre convicción», y nunca fue un criterio sustantivo sino
+una referencia poco precisa a máximas de experiencia. El artículo 317 de la Ley de Enjuiciamiento
+Civil de 1855 disponía que los jueces valorarían las declaraciones testificales «según las reglas
+de la sana crítica», pero esa referencia «no aporta mucho en toda esta materia» (Nieva Fenoll,
+2015, p. 88), porque no especifica qué reglas son las de la sana crítica ni cómo aplicarlas.
 
-El problema no es que la expresión sea incorrecta, sino que es demasiado vaga. Nieva Fenoll señala
-que «De Vicente y Caravantes valoró la referencia legal a la sana crítica como una obligación del
+El problema no es que la expresión sea incorrecta, sino que es demasiado vaga. «De Vicente y
+Caravantes valoró la referencia legal a la sana crítica como una obligación del
 juez de apreciar, además de otras máximas de experiencia sociológicas, las facultades psicológicas
 de los testigos» (Nieva Fenoll, 2015, p. 89). La sana crítica se entendía, entonces, como la
 aplicación de máximas de experiencia psicológicas y sociológicas a la valoración de la prueba. Eso
 es todo cuanto fue y todo cuanto puede ser: no proporciona un método, ni siquiera una orientación
 clara, y solo apunta en la dirección correcta de que el juzgador use el juicio para aplicar máximas
 de experiencia. La práctica posterior la convirtió, sin embargo, en un sinónimo vagamente
-tranquilizador de «el juez decide como considera conveniente». La doctrina fue más consciente del
-problema de lo que esa práctica sugiere, pues Nieva Fenoll recoge que la doctrina española de los
+tranquilizador de «el juez decide como considera conveniente». La doctrina española de los
 siglos XVII a XIX «fue bien consciente de este problema, aunque con motivaciones que ensobrecieron
 la etología del problema y, por tanto, su solución» (Nieva Fenoll, 2015, p. 89), porque temían que
 un criterio estricto menguase la autoridad del juez.

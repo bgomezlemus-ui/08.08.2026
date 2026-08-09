@@ -19,12 +19,12 @@ precisamente lo que todo estándar debe tener.
 Laudan (2005) comienza por lo elemental. Un estándar de prueba, para cumplir su función, debe
 proporcionar al juzgador una regla que le permita determinar cuándo ha alcanzado la certeza
 suficiente para decidir. Esa exigencia presupone tres cosas: una medida, algo que pueda comunicarse
-y algo que pueda verificarse (Laudan, 2005, p. 95). La «íntima convicción» carece de las tres. No
+y algo que pueda verificarse. La «íntima convicción» carece de las tres. No
 es una medida porque la convicción personal es privada y variable de un juez a otro. No puede
 comunicarse porque consiste en un estado emocional o cognitivo interno que cada persona experimenta
 de forma distinta. Y no puede verificarse porque no hay criterio externo que permita a un tercero
 saber si la convicción de un juez es genuina, o si alcanza el nivel que el sistema presupone
-(Laudan, 2005, p. 95).
+(p. 95).
 
 Frente a esa carencia, un estándar verdadero debe ser capaz de cumplir dos operaciones. La primera
 consiste en guiar al juzgador durante el proceso de deliberación, indicándole cuándo ha reunido
@@ -41,15 +41,15 @@ motiva es auténtica o si basta para justificar la decisión (Laudan, 2005, p. 9
 La historia del derecho procesal penal anglo-estadounidense registra ese proceso de degradación,
 según documenta Laudan (2005). El estándar oficial es la
 «duda razonable», expresión que en su origen significaba una medida epistemológica precisa,
-relacionada con la epistemología de Locke y el cálculo de probabilidades (Laudan, 2005, p. 99). A
+relacionada con la epistemología de Locke y el cálculo de probabilidades. A
 lo largo del siglo XX, sin embargo, fue deliberada y lentamente desplumada de su contenido
 epistemológico, hasta llegar a significar simplemente «tener una alta confianza subjetiva acerca de
-la culpabilidad» (Laudan, 2005, p. 99). La forma jurídica se mantuvo —los jueces siguen
+la culpabilidad» (p. 99). La forma jurídica se mantuvo —los jueces siguen
 pronunciando las palabras «más allá de una duda razonable»—, pero el contenido se evaporó, y lo que
 quedó en su lugar fue la convicción íntima del juzgador.
 
 El estándar se volvió así parasitario de su propia base: el jurado debe determinar si la culpabilidad se ha probado, pero sin regla que le diga cuándo ha alcanzado esa
-convicción (Laudan, 2005, p. 106). En esas circunstancias, como el autor observa, «hoy en día, el
+convicción (Laudan, 2005, p. 106). En esas circunstancias, «hoy en día, el
 punto de vista oficial de la Corte Suprema es que una condición necesaria y suficiente para
 condenar al acusado en un juicio penal es una creencia firme de la culpabilidad por parte del
 jurado» (Laudan, 2005, p. 99). Pero esa creencia nunca se especifica. Los jueces y juristas
@@ -59,7 +59,7 @@ de una creencia débil, ni sobre cuál es el umbral que la separa de la duda.
 Dos intentos históricos de definir un estándar de prueba en el derecho penal, uno cualitativo y
 otro cuantitativo, han pretendido llenar ese vacío. El primer camino requiere que el juzgador tenga
 una «certeza moral» o «convicción que va más allá de la duda razonable» de que el acusado cometió
-el delito (Laudan, 2005, p. 98). El segundo, de corte académico-bayesiano, propone en su lugar un
+el delito. El segundo, de corte académico-bayesiano, propone en su lugar un
 nivel de probabilidad —generalmente entre el 90% y el 95%— que debe alcanzarse antes de condenar
 (Laudan, 2005, p. 98). Ninguno de los dos es satisfactorio, y conviene ver por qué falla cada uno.
 
@@ -77,7 +77,7 @@ cuál sea la que se plantee.
 
 El camino cuantitativo tropieza con un obstáculo diferente. Incluso si se estableciera de forma
 explícita que el estándar es una probabilidad de 95%, esa precisión no eliminaría la subjetividad
-de la estimación inicial. Laudan (2005) ilustra el punto con un ejemplo constructor. Si un juez
+de la estimación inicial. El siguiente ejemplo lo ilustra. Si un juez
 comienza un caso asignando una probabilidad previa de inocencia de 95%, y después examina la
 evidencia, llega a una estimación final de probabilidad de culpabilidad que depende de sus
 creencias iniciales acerca de si el acusado es culpable o inocente. Si otro juez comienza el mismo
@@ -94,11 +94,10 @@ respecto de la culpabilidad, la determinación de cuándo se ha satisfecho «dep
 inevitablemente, entre otras cosas, de las creencias subjetivas iniciales del jurado acerca de la
 culpabilidad o inocencia» (Laudan, 2005, p. 101). Dos jueces enfrentados a exactamente la misma
 evidencia pueden aplicar lo que creen es el mismo estándar y llegar a conclusiones completamente
-opuestas, sin que exista criterio alguno para resolver el desacuerdo. El propio autor lo enuncia
-sin rodeos al presentar su trabajo: en un sistema con estándares subjetivos, las pruebas que pueden
-convencer a uno de la culpabilidad de otro no van a persuadir a un tercero de esa culpabilidad, de
-modo que no cabe esperar «ni uniformidad ni justicia si cada juez utiliza sus propios criterios»
-(Laudan, 2005, p. 95). La apariencia de uniformidad oculta divergencias imposibles de detectar.
+opuestas, sin que exista criterio alguno para resolver el desacuerdo: en un sistema con estándares
+subjetivos, las pruebas que pueden convencer a uno de la culpabilidad de otro no van a persuadir a
+un tercero de esa culpabilidad, de modo que no cabe esperar «ni uniformidad ni justicia si cada
+juez utiliza sus propios criterios» (p. 95). La apariencia de uniformidad oculta divergencias imposibles de detectar.
 
 La subjetividad incapacita al estándar en un nivel todavía más profundo. Laudan (2005) sostiene
 que el único mecanismo para distribuir errores en favor del acusado es un estándar no subjetivo de
