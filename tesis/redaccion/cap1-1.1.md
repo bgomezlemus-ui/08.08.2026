@@ -12,9 +12,10 @@
 1.2. La averiguación de la verdad es la función epistémica del proceso. 1.3. La actividad
 probatoria se descompone en tres momentos. 1.4. La inferencia probatoria tiene una estructura
 identificable. 1.5. La solidez de la inferencia admite criterios de control. 1.6. El conjunto
-probatorio excede la suma de sus elementos. 1.7. La libre convicción no es un criterio de
-valoración. 1.8. Un estándar subjetivo no cumple la función de un estándar. 1.9. La motivación
-convierte la decisión en objeto de control externo. 1.10. Recapitulación.
+probatorio excede la suma de sus elementos. 1.7. Libre convicción como principio metodológico
+negativo; la sana crítica no es criterio. 1.8. Un estándar subjetivo no es un estándar.
+1.9. Motivación como control externo de la inferencia. 1.10. Recapitulación: nueve categorías
+operativas.
 
 ---
 
