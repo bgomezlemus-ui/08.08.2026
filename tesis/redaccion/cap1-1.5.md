@@ -19,14 +19,12 @@ admite medida.
 
 ### 1.5.1. La vaguedad de la sana crítica
 
-González Lagier (2005) parte de una constatación que el derecho electoral mexicano confirma. La
-doctrina procesal y la jurisprudencia superaron ya la lectura de la libre valoración como íntima
-convicción, y sostienen ahora que la valoración no puede ser una operación libre de todo criterio
-y cargada de subjetividad, sino una actividad sujeta a pautas (González Lagier, 2005, p. 79). Debe
-someterse, en cambio, a las reglas de la lógica, a las de la sana crítica, a las de la experiencia,
-al criterio racional o al criterio humano (González Lagier, 2005, p. 79). El autor añade entonces
-la objeción decisiva: se trata de referencias sumamente vagas y muy difíciles de concretar
-(González Lagier, 2005, p. 79).
+La doctrina procesal y la jurisprudencia superaron ya la lectura de la libre valoración como
+íntima convicción, y sostienen ahora que la valoración no puede ser una operación libre de todo
+criterio y cargada de subjetividad, sino una actividad sujeta a pautas. Debe someterse a las
+reglas de la lógica, a las de la sana crítica, a las de la experiencia, al criterio racional o
+al criterio humano (González Lagier, 2005, p. 79). La objeción decisiva es que se trata de
+referencias sumamente vagas y muy difíciles de concretar.
 
 La coincidencia literal con la ley mexicana merece subrayarse, porque convierte la objeción en algo
 más que una discusión doctrinal ajena. El artículo 16, párrafo 1, de la Ley General del Sistema de
@@ -51,28 +49,25 @@ ordenan según se refieran a los hechos probatorios, a la garantía o a la hipó
 ### 1.5.2. Criterios sobre los hechos probatorios y sobre la garantía
 
 El primer criterio interroga la fiabilidad, que depende de cómo se haya llegado a conocer los
-hechos probatorios (González Lagier, 2005, p. 81). El autor distingue tres vías de conocimiento: la
-observación directa del juez, las conclusiones científicas y el resultado de otra inferencia. Las
-dos primeras ofrecen mayor fiabilidad, pero en la mayor parte de los supuestos los hechos
-probatorios son conclusiones de otras inferencias previas. Que un testigo diga que oyó discutir a
-dos personas solo prueba de forma directa que el testigo lo dijo (González Lagier, 2005, pp. 81-82).
-Lo mismo sucede con un documento, pues habrá que inferir que su contenido es cierto (González
-Lagier, 2005, p. 82). La declaración y el documento acreditan de forma inmediata su propia
+hechos probatorios (González Lagier, 2005, p. 81). Se distinguen tres vías de conocimiento: la
+observación directa del juez, las conclusiones científicas y el resultado de otra inferencia.
+Las dos primeras ofrecen mayor fiabilidad, pero en la mayor parte de los supuestos los hechos
+probatorios son conclusiones de otras inferencias previas. Que un testigo diga que oyó discutir
+a dos personas solo prueba de forma directa que el testigo lo dijo. Lo mismo sucede con un
+documento, pues habrá que inferir que su contenido es cierto (pp. 81-82). La declaración y el documento acreditan de forma inmediata su propia
 existencia, no la del hecho que refieren.
 
-Esas inferencias intermedias, a las que rara vez se presta atención, son inevitables, y cada una puede ser un punto débil de la
-argumentación en su conjunto (González Lagier, 2005, p. 82). De ahí una regla de graduación: la
-fiabilidad de los hechos probatorios es mayor cuanto menor es la cadena de inferencias que lleva
-hasta ellos (González Lagier, 2005, p. 82). El autor añade una observación que desactiva una
-distinción muy arraigada, pues en sentido estricto la única prueba directa es la observación
-inmediata por el juez (González Lagier, 2005, p. 82). Todo lo demás resulta mediato en algún grado,
+Esas inferencias intermedias, inevitables, pueden ser puntos débiles de la argumentación en su
+conjunto. De ahí una regla de graduación: la fiabilidad de los hechos probatorios es mayor
+cuanto menor es la cadena de inferencias que lleva hasta ellos. En sentido estricto la única
+prueba directa es la observación inmediata por el juez (González Lagier, 2005, p. 82). Todo lo demás resulta mediato en algún grado,
 de modo que la oposición entre prueba directa e indirecta describe una diferencia de grado y no de
 naturaleza.
 
 El segundo criterio interroga la suficiencia: cuantos más hechos apunten en dirección a la
-hipótesis, mayor será la seguridad sobre su corrección. González Lagier (2005) matiza de inmediato
-ese criterio aritmético, porque un solo hecho probatorio con alto grado de fiabilidad puede tener
-un peso mayor que varios hechos probatorios de escasa fiabilidad (p. 82). La suficiencia no se
+hipótesis, mayor será la seguridad sobre su corrección. Sin embargo, un solo hecho probatorio
+con alto grado de fiabilidad puede tener un peso mayor que varios hechos probatorios de escasa
+fiabilidad (González Lagier, 2005, p. 82). La suficiencia no se
 resuelve, por tanto, contando elementos, precisión especialmente pertinente para el derecho
 electoral, donde la exigencia de pluralidad probatoria suele formularse en términos numéricos.
 Contar pruebas y ponderarlas son operaciones distintas, y solo la segunda constituye valoración. Un
@@ -80,11 +75,10 @@ tribunal que reprocha al promovente no haber aportado más elementos, sin examin
 fiabilidad de los que sí aportó, se detiene en la primera de esas dos operaciones y omite la
 segunda.
 
-El tercer criterio interroga la variedad, y es el de mayor rendimiento para la prueba por indicios.
-El autor sostiene que la variedad de los hechos probatorios aumenta la probabilidad de la hipótesis
-que confirman (González Lagier, 2005, p. 83), y precisa que su importancia radica en que permite la
-eliminación de las hipótesis alternativas con las que la principal entra en competencia (González
-Lagier, 2005, p. 83). El ejemplo que ofrece traslada bien al terreno electoral. Si los hechos
+El tercer criterio interroga la variedad, y es el de mayor rendimiento para la prueba por
+indicios. La variedad de los hechos probatorios aumenta la probabilidad de la hipótesis que
+confirman, y su importancia radica en que permite la eliminación de las hipótesis alternativas
+con las que la principal entra en competencia (González Lagier, 2005, p. 83). El ejemplo que ofrece traslada bien al terreno electoral. Si los hechos
 contra un acusado de tráfico de droga se reducen a las acusaciones de vecinos con quienes mantiene
 pésimas relaciones, cabe pensar que la causa sea la animadversión. Esa hipótesis alternativa se
 debilita al encontrarse una balanza de precisión, y se debilita todavía más al hallarse en la
@@ -102,42 +96,39 @@ por qué un conjunto heterogéneo puede sostener aquello que ninguno de sus elem
 separado, y por qué la homogeneidad del material debilita la inferencia aunque aumente su volumen.
 
 El cuarto criterio interroga la pertinencia, pues no todos los hechos sirven para confirmar una
-hipótesis, sino solo los que guardan relación con el hecho descrito en ella. González Lagier (2005)
-precisa que un hecho no será pertinente cuando no esté correlacionado con la hipótesis ni por
-presunciones ni por máximas de experiencia adecuadas y bien fundadas (p. 85). El criterio remite,
+hipótesis, sino solo los que guardan relación con el hecho descrito en ella. Un hecho no será
+pertinente cuando no esté correlacionado con la hipótesis ni por presunciones ni por máximas de
+experiencia adecuadas y bien fundadas (González Lagier, 2005, p. 85). El criterio remite,
 por tanto, a la corrección de la garantía, con lo que cierra el círculo abierto por la estructura
 de la inferencia. Sin garantía enunciada no puede determinarse la pertinencia de un elemento, y
 declarar impertinente una prueba sin explicitar la máxima aplicada produce una decisión que no
 admite control, porque el afectado no llega a saber qué correlación se consideró inexistente ni
 puede, en consecuencia, combatirla.
 
-Dos criterios más recaen ya sobre la garantía misma. El primero pregunta si está suficientemente
-fundada. González Lagier (2005) recuerda que las máximas de experiencia son a su vez la conclusión
-de una inducción ampliativa, por lo que no son necesariamente verdaderas sino probables (p. 86). Su
-credibilidad racional depende de que esa inducción esté bien hecha, de modo que hay que examinar el
-fundamento cognoscitivo de las máximas y regularidades empleadas, único modo de excluir las
-generalizaciones apresuradas y los prejuicios (González Lagier, 2005, p. 86). No basta, además, con
-que la máxima aplicada esté bien fundada: debe también no haber máximas mejor fundadas que
-desautoricen el paso de los hechos probatorios a la hipótesis (González Lagier, 2005, p. 86). La
+Dos criterios más recaen sobre la garantía misma. El primero pregunta si está suficientemente
+fundada. Las máximas de experiencia son la conclusión de una inducción ampliativa, por lo que
+no son necesariamente verdaderas sino probables. Su credibilidad racional depende de que esa
+inducción esté bien hecha, de modo que hay que examinar el fundamento cognoscitivo de las
+máximas y regularidades empleadas. No basta que la máxima aplicada esté bien fundada: debe
+también no haber máximas mejor fundadas que desautoricen el paso de los hechos probatorios a
+la hipótesis (González Lagier, 2005, p. 86). La
 exigencia obliga a considerar las regularidades que juegan en contra, y no solo las que favorecen
 la conclusión adoptada.
 
 Las reglas construidas para la ocasión merecen advertencia aparte. Si la regla se elaboró para
-explicar el caso concreto que el juez debe decidir, entonces no se basa en
-una inducción ampliativa bien fundada (González Lagier, 2005, p. 87). La máxima construida a la
-medida del caso resulta inservible, porque carece de la generalidad que es justamente lo que
-convierte a un enunciado en garantía. El autor precisa también el estatuto de las presunciones, que
-pueden verse como máximas de experiencia institucionalizadas y autoritativas y en esa medida deben
-apoyarse igualmente en una inducción sólida (González Lagier, 2005, p. 87). Una presunción
+explicar el caso concreto que el juez debe decidir, entonces no se basa en una inducción
+ampliativa bien fundada. La máxima construida a la medida del caso resulta inservible, porque
+carece de la generalidad que es justamente lo que convierte a un enunciado en garantía. Las
+presunciones pueden verse como máximas de experiencia institucionalizadas y autoritativas y en
+esa medida deben apoyarse igualmente en una inducción sólida (González Lagier, 2005, p. 87). Una presunción
 jurisprudencial no queda exenta de fundamento por el hecho de provenir de un tribunal, aunque su
 carácter autoritativo limite el margen del juzgador para desplazarla.
 
-El segundo criterio sobre la garantía pregunta por el grado de probabilidad causal que establece,
-pues existen máximas que correlacionan dos fenómenos con alta probabilidad y máximas que establecen
-esa correlación con una probabilidad sensiblemente menor. González Lagier (2005) formula la regla
-correspondiente: cuanto menor sea el grado de probabilidad causal expresado por la máxima de
-experiencia, menor será la probabilidad inferencial con la que se sigue la hipótesis final
-(pp. 87-88). La regla tiene aplicación inmediata en materia electoral. Afirmar que quien aparece en
+El segundo criterio sobre la garantía pregunta por el grado de probabilidad causal que establece.
+Existen máximas que correlacionan dos fenómenos con alta probabilidad y máximas que establecen
+esa correlación con una probabilidad sensiblemente menor. Cuanto menor sea el grado de
+probabilidad causal expresado por la máxima de experiencia, menor será la probabilidad
+inferencial con la que se sigue la hipótesis final (González Lagier, 2005, pp. 87-88). La regla tiene aplicación inmediata en materia electoral. Afirmar que quien aparece en
 un impreso de propaganda obtuvo por ello más votos supone una máxima de probabilidad causal baja, y
 la conclusión hereda esa debilidad. Enunciar la máxima obliga a reconocer el límite de la
 inferencia; omitirla permite presentar como fuerte un razonamiento que no lo es, y el vicio opera
@@ -145,8 +136,8 @@ en las dos direcciones, porque también permite descartar por débil lo que la m
 
 ### 1.5.3. Criterios sobre la hipótesis y gradualidad de la solidez
 
-El primer criterio sobre la hipótesis pregunta si ha sido refutada. González Lagier (2005) distingue
-dos formas de refutación (p. 88). Una hipótesis queda refutada de manera directa cuando su verdad
+El primer criterio sobre la hipótesis pregunta si ha sido refutada. Se distinguen dos formas de
+refutación (González Lagier, 2005, p. 88). Una hipótesis queda refutada de manera directa cuando su verdad
 resulta incompatible con otra afirmación que se ha dado por probada, y de manera indirecta cuando
 implica una afirmación que se demuestra falsa o poco probable. La exigencia opera con independencia
 del apoyo que la hipótesis haya recibido de los hechos probatorios, de modo que la confirmación no

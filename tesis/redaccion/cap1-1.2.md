@@ -20,36 +20,31 @@ tanto, mensurable.
 ### 1.2.1. Verdad y justicia de la decisión
 
 Ferrer Beltrán (2007) aborda el problema desde las condiciones de éxito de la institución
-probatoria. Sostiene que para determinar los objetivos de una institución conviene establecer
-primero cuáles son esas condiciones (p. 29). El punto de partida es la función directiva del
-derecho. El legislador dicta normas para que sus destinatarios realicen o se abstengan de
-realizar determinadas conductas, y añade la amenaza de una sanción para quien no cumpla. Los
-sistemas jurídicos desarrollados prevén, por eso, órganos cuya función principal consiste en
-determinar la ocurrencia de los hechos a los que el derecho vincula consecuencias y en
-imponerlas a los sujetos previstos (Ferrer Beltrán, 2007, p. 29). La cadena completa depende de
+probatoria. El punto de partida es la función directiva del derecho. El legislador dicta normas
+para que sus destinatarios realicen o se abstengan de realizar determinadas conductas, y añade
+la amenaza de una sanción para quien no cumpla. Los sistemas jurídicos desarrollados prevén,
+por eso, órganos cuya función principal consiste en determinar la ocurrencia de los hechos a
+los que el derecho vincula consecuencias y en imponerlas a los sujetos previstos (Ferrer
+Beltrán, 2007, p. 29). La cadena completa depende de
 un eslabón fáctico, y si ese eslabón falla, fallan todos los que penden de él, por impecable que
 sea la técnica jurídica del resto de la resolución.
 
 El autor prueba esa dependencia mediante un experimento mental. Supone que la sanción se
 atribuya aleatoriamente, de modo que los órganos de adjudicación sorteen cada mes quién debe
-ser sancionado y cuántas sanciones se impondrán (Ferrer Beltrán, 2007, p. 30). En ese escenario
-no existe vinculación alguna entre la conducta de cada miembro de la sociedad y la probabilidad
-de ser sancionado. Nadie tiene entonces razón para comportarse conforme a las normas jurídicas.
-El experimento aísla con nitidez lo que aporta la averiguación de la verdad: sin ella, la norma
-deja de motivar, porque su consecuencia se desprende de algo distinto de la conducta que la
-norma describe. La conclusión de Ferrer Beltrán (2007) es que la prueba tiene la función de
-comprobar la producción de los hechos condicionantes a los que el derecho vincula consecuencias
-jurídicas (p. 30). El éxito de la institución probatoria se produce, en consecuencia, cuando las
-proposiciones sobre los hechos que se declaran probadas son verdaderas (Ferrer Beltrán, 2007,
-pp. 30-31).
+ser sancionado y cuántas sanciones se impondrán. En ese escenario no existe vinculación alguna
+entre la conducta de cada miembro de la sociedad y la probabilidad de ser sancionado. Nadie
+tiene entonces razón para comportarse conforme a las normas jurídicas. El experimento aísla
+con nitidez lo que aporta la averiguación de la verdad: sin ella, la norma deja de motivar,
+porque su consecuencia se desprende de algo distinto de la conducta que la norma describe.
+La conclusión es que la prueba tiene la función de comprobar la producción de los hechos
+condicionantes a los que el derecho vincula consecuencias jurídicas. El éxito de la institución
+probatoria se produce cuando las proposiciones sobre los hechos que se declaran probadas son
+verdaderas (Ferrer Beltrán, 2007, pp. 30-31).
 
 Que la averiguación de la verdad sea el objetivo institucional de la prueba no significa que sea
-el único objetivo del proceso.
-Ferrer Beltrán (2007) advierte que afirmar la finalidad de una institución no excluye la
-existencia de otras finalidades o propósitos (p. 31). La regulación jurídica de la prueba impone,
-en muchos casos, excepciones a las reglas de la epistemología general, y esas excepciones
-protegen otros valores que comparten tutela jurídica con la averiguación de la verdad (Ferrer
-Beltrán, 2007, p. 31). El derecho electoral ofrece ejemplos inmediatos, empezando por los plazos
+el único objetivo del proceso. La regulación jurídica de la prueba impone, en muchos casos,
+excepciones a las reglas de la epistemología general, y esas excepciones protegen otros valores
+que comparten tutela jurídica con la averiguación de la verdad (Ferrer Beltrán, 2007, p. 31). El derecho electoral ofrece ejemplos inmediatos, empezando por los plazos
 perentorios que la definitividad de las etapas impone. La existencia de esas excepciones no
 debilita la tesis: la refuerza, porque solo se concibe como excepción aquello que se aparta de
 una regla vigente.
@@ -63,57 +58,56 @@ relevantes. La aplicación correcta de la norma presupone que haya ocurrido el h
 misma identifica como condición (Taruffo, 2013, p. 13). El autor lo resume en una fórmula
 memorable: ninguna norma se aplica correctamente a hechos falsos o equivocados.
 
-La averiguación de la verdad constituye solo una de las condiciones de justicia de la decisión, que además presupone un proceso desarrollado de manera
-correcta y legítima y una norma interpretada correctamente (Taruffo, 2013, p. 14). Se trata de
-una condición de por sí no suficiente, pero necesaria en todo caso. Que los hechos no se
-establezcan de manera verdadera basta para que la decisión sea injusta, aunque el proceso se haya
-desarrollado con toda corrección y la norma se haya interpretado con validez (Taruffo, 2013,
-p. 14). Ninguna de las tres condiciones es suficiente por separado, y las tres resultan
-necesarias en su conjunto. Quien pasa por alto la distinción entre condición necesaria y
+La averiguación de la verdad constituye solo una de las condiciones de justicia de la decisión,
+que además presupone un proceso desarrollado de manera correcta y legítima y una norma
+interpretada correctamente. Se trata de una condición de por sí no suficiente, pero necesaria
+en todo caso. Que los hechos no se establezcan de manera verdadera basta para que la decisión
+sea injusta, aunque el proceso se haya desarrollado con toda corrección y la norma se haya
+interpretado con validez (Taruffo, 2013, p. 14). Ninguna de las tres condiciones es suficiente
+por separado, y las tres resultan necesarias en su conjunto. Quien pasa por alto la distinción entre condición necesaria y
 condición suficiente puede concluir, erróneamente, que basta con tramitar bien el proceso para
 decidir con justicia.
 
 Frente a esa concepción se alzan objeciones que el autor identifica y descarta. Menciona las
 filosofías que niegan la posibilidad de conocer la realidad externa al sujeto, entre ellas el
-relativismo radical según el cual cada quien tiene su verdad y nadie se equivoca (Taruffo, 2013,
-p. 14). Menciona también las concepciones que orientan el proceso solo a resolver controversias,
-de las que se sigue que la averiguación de la verdad no figura entre sus finalidades (Taruffo,
-2013, p. 15). A los sostenedores de esas posiciones los denomina *veriphobics*, o enemigos de la
-verdad, y observa que son muchos y de clases distintas (Taruffo, 2013, p. 15). Su crítica global
-es que, si a esas concepciones no les interesa el fundamento factual de la decisión judicial,
-entonces carecen de interés para quien se ocupa de cómo resolver litigios mediante decisiones
-justas (Taruffo, 2013, p. 16).
+relativismo radical según el cual cada quien tiene su verdad y nadie se equivoca. Menciona
+también las concepciones que orientan el proceso solo a resolver controversias, de las que se
+sigue que la averiguación de la verdad no figura entre sus finalidades. A los sostenedores de
+esas posiciones los denomina *veriphobics*, o enemigos de la verdad, y observa que son muchos
+y de clases distintas. Su crítica global es que, si a esas concepciones no les interesa el
+fundamento factual de la decisión judicial, entonces carecen de interés para quien se ocupa de
+cómo resolver litigios mediante decisiones justas (Taruffo, 2013, p. 16).
 
 ### 1.2.2. Las concepciones ritual y retórica
 
 Dos concepciones merecen examen detenido, porque no niegan la verdad de manera frontal sino que
 la vuelven irrelevante. La primera es la concepción ritualista, que considera el proceso como un
 rito celebrado con ciertas modalidades, en lugares específicos y con sujetos vestidos de maneras
-extrañas (Taruffo, 2013, p. 81). Bajo esa mirada, el proceso opera como una representación
-teatral cuya función consiste en legitimar la decisión ante los ojos del público que presencia el
-rito. Lo que cuenta no es la calidad ni el contenido de la decisión, sino el procedimiento que
-concluye con ella. La prueba queda reducida a una parte del rito, y su función se vuelve
-retóricamente persuasiva hacia el público (Taruffo, 2013, p. 82). Sirve para hacer creer que la
-decisión final no fue arbitraria, no para establecer que no lo fue.
+extrañas. Bajo esa mirada, el proceso opera como una representación teatral cuya función
+consiste en legitimar la decisión ante los ojos del público que presencia el rito. Lo que cuenta
+no es la calidad ni el contenido de la decisión, sino el procedimiento que concluye con ella.
+La prueba queda reducida a una parte del rito, y su función se vuelve retóricamente persuasiva
+hacia el público (Taruffo, 2013, p. 82). Sirve para hacer creer que la decisión final no fue
+arbitraria, no para establecer que no lo fue.
 
 El procedimiento de creación y asunción de la prueba sirve, bajo esa concepción, para crear una
-apariencia, de un modo no distinto de lo que sucede en una
-representación teatral (Taruffo, 2013, p. 82). El fenómeno admite una lectura benévola, porque un
-teatro judicial que funciona bien produce consenso social sobre la administración de justicia. La
-objeción es que esa forma de pensar deja fuera el contenido y la calidad de la decisión. El autor
-lo enuncia con dureza: un rito eficaz puede legitimar cualquier decisión, incluso la condena de un
-inocente o la absolución de un culpable (Taruffo, 2013, p. 82). Basta con que el rito resulte
+apariencia, de un modo no distinto de lo que sucede en una representación teatral. El fenómeno
+admite una lectura benévola, porque un teatro judicial que funciona bien produce consenso
+social sobre la administración de justicia. La objeción es que esa forma de pensar deja fuera el
+contenido y la calidad de la decisión. El autor lo enuncia con dureza: un rito eficaz puede
+legitimar cualquier decisión, incluso la condena de un inocente o la absolución de un culpable
+(Taruffo, 2013, p. 82). Basta con que el rito resulte
 eficaz para que la decisión sea aceptada, con lo que la aceptación social sustituye a la
 corrección sin que ninguna de las dos garantice la otra.
 
 La segunda concepción entiende el proceso como una competencia verbal entre narraciones que
-termina con la victoria del narrador más eficaz. La prueba se convierte allí en un instrumento de
-persuasión del que los abogados se sirven para convencer al juez o al jurado (Taruffo, 2013,
-pp. 82-83). Esta concepción tampoco es extraña ni marginal, pues resulta típica de quienes
-participan en el proceso con el fin de que su cliente venza. Taruffo (2013) objeta que también
-ella deja de lado el contenido y la calidad de la decisión (p. 83). Ocurre con frecuencia que la
-victoria corresponde a la parte que desarrolló la mejor narración por ser retóricamente más
-eficaz, sin que esa narración tenga relación con la realidad de los hechos.
+termina con la victoria del narrador más eficaz. La prueba se convierte allí en un instrumento
+de persuasión del que los abogados se sirven para convencer al juez o al jurado. Esta concepción
+tampoco es extraña ni marginal, pues resulta típica de quienes participan en el proceso con el
+fin de que su cliente venza. La objeción es que también ella deja de lado el contenido y la
+calidad de la decisión. Ocurre con frecuencia que la victoria corresponde a la parte que
+desarrolló la mejor narración por ser retóricamente más eficaz, sin que esa narración tenga
+relación con la realidad de los hechos (Taruffo, 2013, p. 83).
 
 Ninguna de las dos concepciones exige que el juzgador valore el material probatorio, porque en ambas el resultado depende de algo distinto del
 conocimiento de los hechos. Una sentencia puede, por tanto, cumplir todas las formas del rito

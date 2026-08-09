@@ -17,34 +17,32 @@ un estándar, y cuando ese estándar no se enuncia el tránsito queda sin contro
 
 ### 1.3.1. La conformación del conjunto de elementos de juicio
 
-Ferrer Beltrán (2007) distingue tres momentos fundamentales en la toma de decisiones sobre hechos
-probados. Son la conformación del conjunto de elementos de juicio sobre cuya base se adoptará la
-decisión, la valoración de esos elementos y la adopción de la decisión propiamente dicha (p. 41).
-El autor advierte que se trata de tres momentos lógicamente distintos y sucesivos, aunque en los
-procesos reales puedan presentarse entrelazados (Ferrer Beltrán, 2007, p. 41). Esa advertencia
+Ferrer Beltrán (2007) distingue tres momentos fundamentales: la conformación del conjunto de
+elementos de juicio sobre cuya base se adoptará la decisión, la valoración de esos elementos y
+la adopción de la decisión propiamente dicha. Se trata de tres momentos lógicamente distintos y
+sucesivos, aunque en los procesos reales puedan presentarse entrelazados (p. 41). Esa advertencia
 importa, porque el entrelazamiento práctico no autoriza a confundirlos en el análisis: cada uno se
 rige por criterios distintos, y confundirlos produce errores que resultan invisibles mientras la
 distinción no se traza.
 
 El primero consiste en conformar, mediante la proposición y la práctica de las pruebas, un
-conjunto de elementos de juicio que apoyen o refuten las distintas hipótesis sobre los hechos del
-caso (Ferrer Beltrán, 2007, p. 41). Aquí aparece la especificidad jurídica de mayor calado. En los
-demás ámbitos del conocimiento el conjunto que puede analizarse coincide con el total de las
-informaciones disponibles y relevantes. En el derecho, en cambio, el conjunto de elementos a
-valorar es un subconjunto del formado por la totalidad de los elementos disponibles: aquellos que
-han sido incorporados al expediente judicial (Ferrer Beltrán, 2007, p. 42). El juzgador no puede
+conjunto de elementos de juicio que apoyen o refuten las distintas hipótesis sobre los hechos
+del caso (Ferrer Beltrán, 2007, p. 41). En los demás ámbitos del conocimiento el conjunto que
+puede analizarse coincide con el total de las informaciones disponibles y relevantes. En el
+derecho, en cambio, el conjunto de elementos a valorar es un subconjunto del formado por la
+totalidad de los elementos disponibles: aquellos que han sido incorporados al expediente
+judicial (p. 42). El juzgador no puede
 resolver con lo que sabe, sino con lo que consta, y lo que queda fuera del expediente queda fuera
 del razonamiento por pertinente que sea.
 
 Esa restricción se articula mediante filtros de signo opuesto. El primero es epistemológico y
-opera como principio general de inclusión: una prueba es relevante si aporta apoyo o refutación de
-alguna de las hipótesis fácticas del caso a la luz de los principios generales de la lógica y de
-la ciencia (Ferrer Beltrán, 2007, p. 42). A ese filtro inclusivo el derecho añade un número
-considerable de reglas de exclusión. Ferrer Beltrán (2007) señala que buena parte de ellas se
-justifican en la protección de valores distintos de la averiguación de la verdad (p. 43). Entre
-esas reglas figura una que el derecho electoral mexicano aplica con particular rigor: los propios
-plazos procesales operan como regla de exclusión, de modo que queda fuera toda información
-aportada fuera de los plazos previstos, aunque sea relevante (Ferrer Beltrán, 2007, p. 43).
+opera como principio general de inclusión: una prueba es relevante si aporta apoyo o refutación
+de alguna de las hipótesis fácticas del caso a la luz de los principios generales de la lógica y
+de la ciencia (Ferrer Beltrán, 2007, p. 42). A ese filtro inclusivo el derecho añade reglas de
+exclusión que se justifican en la protección de valores distintos de la averiguación de la
+verdad (p. 43). Entre esas reglas figura una que el derecho electoral mexicano aplica con particular rigor: los
+propios plazos procesales operan como regla de exclusión, de modo que queda fuera toda
+información aportada fuera de los plazos previstos, aunque sea relevante (p. 43).
 
 La correspondencia con la ley mexicana es exacta. El artículo 15, párrafo 1, de la Ley General del
 Sistema de Medios de Impugnación en Materia Electoral establece un catálogo tasado de medios
@@ -56,9 +54,10 @@ proceso electoral. La observación no es una crítica, sino la constatación de 
 decidió sacrificar riqueza epistémica en el primer momento, lo que vuelve más exigente el
 tratamiento del material que sí logró entrar.
 
-Ese empobrecimiento tiene una contrapartida institucional. Ferrer Beltrán (2007) sostiene que el
-control de racionalidad puede funcionar a posteriori bajo una condición: debe exigirse al decisor que justifique por qué declaró probados esos hechos y cuál fue
-el apoyo empírico en el que basó su decisión (p. 44). Los sistemas que carecen de esa exigencia de
+Ese empobrecimiento tiene una contrapartida institucional. El control de racionalidad puede
+funcionar a posteriori bajo una condición: debe exigirse al decisor que justifique por qué
+declaró probados esos hechos y cuál fue el apoyo empírico en el que basó su decisión (Ferrer
+Beltrán, 2007, p. 44). Los sistemas que carecen de esa exigencia de
 motivación deben compensarla con reglas de exclusión abundantes, fijadas por anticipado; los que
 sí la imponen pueden admitir más material y controlar después. El derecho electoral mexicano
 pertenece al segundo grupo, porque los artículos 14 y 16 de la Constitución imponen fundar y
@@ -67,19 +66,19 @@ mecanismo principal de racionalidad.
 
 ### 1.3.2. La valoración
 
-Cerrada la composición del conjunto, comienza el segundo momento. Ferrer Beltrán (2007) establece
-que, bajo un régimen de libre valoración, deberá valorarse el apoyo que cada elemento de juicio
-aporta a las hipótesis en conflicto, de forma individual y en conjunto (p. 45). La fórmula merece
-subrayarse porque contiene las dos operaciones que el artículo 16, párrafo 3, de la ley mexicana
-también exige. El resultado buscado consiste en saber el grado de confirmación del que dispone
-cada una de esas hipótesis (Ferrer Beltrán, 2007, p. 45). La valoración no produce, por tanto, un
+Cerrada la composición del conjunto, comienza el segundo momento. Bajo un régimen de libre
+valoración, deberá valorarse el apoyo que cada elemento de juicio aporta a las hipótesis en
+conflicto, de forma individual y en conjunto (Ferrer Beltrán, 2007, p. 45). La fórmula merece
+subrayarse porque contiene las dos operaciones que el artículo 16, párrafo 3, de la ley
+mexicana también exige. El resultado buscado consiste en saber el grado de confirmación del que
+dispone cada una de esas hipótesis. La valoración no produce, por tanto, un
 veredicto sobre la verdad: produce una magnitud, que es el grado de apoyo conferido a cada
 hipótesis en competencia. Esa magnitud admite comparación, y confundirla con la conclusión es el
 primer paso hacia una decisión incontrolable.
 
-El resultado de la valoración es siempre contextual, esto es, referido a un determinado conjunto de elementos de
-juicio (Ferrer Beltrán, 2007, p. 45). Si el conjunto cambia por adición o sustracción de algún
-elemento, el resultado puede perfectamente ser otro. La consecuencia práctica es de enorme
+El resultado de la valoración es siempre contextual, referido a un determinado conjunto de
+elementos de juicio (Ferrer Beltrán, 2007, p. 45). Si el conjunto cambia por adición o
+sustracción de algún elemento, el resultado puede perfectamente ser otro. La consecuencia práctica es de enorme
 importancia: omitir del conjunto un elemento que consta en el expediente no constituye un descuido
 menor, porque altera el resultado de toda la operación. Un tribunal que declara inexistente una
 prueba obrante en autos no comete un error de detalle; valora un conjunto distinto del que tenía
@@ -87,13 +86,12 @@ ante sí, y obtiene por ello un grado de confirmación que no corresponde al cas
 vicio no está en la conclusión, sino en el conjunto sobre el que se razonó.
 
 La libertad que la libre valoración concede existe solo en el sentido de que la valoración no
-está sujeta a normas jurídicas que predeterminen su resultado (Ferrer Beltrán, 2007, p. 45). La operación de juzgar el apoyo empírico
-que un conjunto de elementos aporta a una hipótesis permanece sujeta a los criterios generales de
-la lógica y de la racionalidad (Ferrer Beltrán, 2007, p. 45). Libertad frente a la prueba tasada no
-equivale, en consecuencia, a libertad frente a la razón. El autor califica este segundo momento
-como el momento de la racionalidad y sostiene que, una vez delimitado el conjunto, la operación de
-valorar lo que de él puede inferirse no difiere de la que se realiza en cualquier otro ámbito de la
-experiencia (Ferrer Beltrán, 2007, p. 46).
+está sujeta a normas jurídicas que predeterminen su resultado. La operación de juzgar el apoyo
+empírico que un conjunto de elementos aporta a una hipótesis permanece sujeta a los criterios
+generales de la lógica y de la racionalidad (Ferrer Beltrán, 2007, p. 45). Libertad frente a la
+prueba tasada no equivale a libertad frente a la razón. Una vez delimitado el conjunto, la
+operación de valorar lo que de él puede inferirse no difiere de la que se realiza en cualquier
+otro ámbito de la experiencia (p. 46).
 
 De esa caracterización se sigue una réplica a quien alegue que las restricciones del proceso
 electoral impiden valorar con rigor. Si en el momento de la valoración no rigen reglas jurídicas
