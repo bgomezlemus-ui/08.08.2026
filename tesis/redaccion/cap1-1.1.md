@@ -20,8 +20,28 @@ convierte la decisión en objeto de control externo. 1.10. Recapitulación.
 
 ## 1.1. La decisión sobre los hechos es una operación de conocimiento sujeta a control racional
 
-La valoración de la prueba admite control racional o queda entregada a la conciencia del
-juzgador, y entre esas dos posibilidades no existe término medio. La primera alternativa supone
+Todo litigio se decide sobre hechos. Antes de aplicar norma alguna, el juzgador debe establecer
+qué ocurrió, y de esa determinación depende cuanto venga después: la calificación jurídica, la
+consecuencia prevista y el sentido del fallo. La operación parece sencilla y no lo es. El juez no
+presenció los acontecimientos sobre los que resuelve y llega a ellos por vía indirecta, a través
+de documentos, imágenes y declaraciones de fiabilidad desigual, aportados además por quienes
+tienen interés en el resultado. En materia electoral esa distancia se acentúa. Los hechos que
+suelen alegarse —la entrega de propaganda, la presión sobre el electorado, la intervención de
+servidores públicos durante la jornada— ocurren de forma dispersa, en miles de puntos
+simultáneos, sin registro oficial y ante testigos que rara vez son neutrales.
+
+La tradición jurídica ha dedicado a esa operación mucho menos esfuerzo que a la interpretación de
+las normas. Sobre cómo debe entenderse un precepto existen escuelas, métodos y una densa
+jurisprudencia de control. Sobre cómo debe establecerse un hecho, el derecho ofrece poco más que
+remisiones genéricas a la lógica, a la sana crítica y a la experiencia, fórmulas que nombran el
+problema sin resolverlo. La asimetría resulta llamativa si se repara en que el margen de
+apreciación del juzgador es mayor al fijar los hechos que al interpretar la ley, y en que la
+mayoría de los litigios se gana o se pierde en el terreno fáctico. Donde más poder se ejerce es
+donde menos controles se han construido.
+
+De esa desproporción nace una pregunta previa a cualquier método de valoración. La valoración de
+la prueba admite control racional o queda entregada a la conciencia del juzgador, y entre esas
+dos posibilidades no existe término medio. La primera alternativa supone
 que la fijación judicial de los hechos constituye una operación de conocimiento, susceptible de
 acierto y de error y sujeta por ello a criterios de corrección. La segunda la convierte en un
 acto de voluntad que se agota en su propia enunciación. Tres razones sostienen la primera. La
